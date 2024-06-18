@@ -60,7 +60,7 @@ def normalize_data(df_raw:pd.DataFrame) -> pd.DataFrame:
     df = df_raw[df_raw['Label'].notnull() & (df_raw['Label'] != '')]
     df.loc[:, 'Label'] = df['Label'].apply(unidecode)
     df.loc[:, 'Value'] = df['Value'].str.replace('\n', '') 
-    df.loc[:, 'Label'] = df['Label'].str.replace('', '') 
+    df.loc[:, 'Label'] = df['Label'].str.replace(' ', '') 
     df.loc[:, 'Label'] = df['Label'].str.replace('.', '') 
     df.loc[:, 'Value'] = df['Value'].apply(unidecode)
     df = pivot_table(df)
