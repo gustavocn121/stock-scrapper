@@ -13,7 +13,6 @@ headers={
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
 }
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', filename=f'./logs/stock_scrapper_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log')
 
 
 def create_dirs():
@@ -95,6 +94,7 @@ def export_to_csv(df: pd.DataFrame, output: str) -> None:
    
 def main():
     create_dirs()
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', filename=f'./logs/stock_scrapper_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log')
 
     tickers = pd.read_csv('stocks-b3.csv', sep=',').Ticker.to_list()
     df_result = pd.concat(run_scraper(ticker_list=tickers), ignore_index=True)
