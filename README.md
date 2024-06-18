@@ -57,3 +57,13 @@ The output CSV name follows the pattern `output_yyyyMMdd.csv`, considering the e
 ## Contributing
 
 Contributions are welcome, if you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## Disclaimer
+
+This project was developed for educational purposes to test my skills. The scraping tools or methods utilized within this project are intended for educational and learning purposes only. I do not condone or accept responsibility for any unauthorized use of these tools or methods to access data without permission from the respective website owners. Users of this project are solely responsible for ensuring their compliance with all applicable laws and regulations.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+
