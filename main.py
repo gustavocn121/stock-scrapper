@@ -33,7 +33,6 @@ def get_stock_data(base_url:str , stock: str, headers: str) -> BeautifulSoup:
 
 def extract_stock_info(soup: BeautifulSoup) -> pd.DataFrame:
     logging.info("Extracting stock info")
-    tables = soup.find_all('table', class_='w728')
     all_data = []
     tables = soup.find_all('table', class_='w728')
     for table in tables[:-1]:
