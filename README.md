@@ -57,9 +57,3 @@ The output CSV name follows the pattern `output_yyyyMMdd.csv`, considering the e
 ## Contributing
 
 Contributions are welcome, if you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-
