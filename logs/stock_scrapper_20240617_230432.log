@@ -1,0 +1,1987 @@
+2024-06-17 23:04:32,742 - INFO - Creating required directories
+2024-06-17 23:04:32,754 - INFO - Starting stock scrapper for PETR4
+2024-06-17 23:04:32,754 - INFO - Getting stock data for PETR4
+2024-06-17 23:04:32,754 - INFO - Starting stock scrapper for CIEL3
+2024-06-17 23:04:32,754 - INFO - Getting stock data for CIEL3
+2024-06-17 23:04:32,754 - INFO - Starting stock scrapper for BBDC4
+2024-06-17 23:04:32,754 - INFO - Starting stock scrapper for HAPV3
+2024-06-17 23:04:32,754 - INFO - Getting stock data for BBDC4
+2024-06-17 23:04:32,754 - INFO - Starting stock scrapper for COGN3
+2024-06-17 23:04:32,754 - INFO - Getting stock data for HAPV3
+2024-06-17 23:04:32,754 - INFO - Starting stock scrapper for B3SA3
+2024-06-17 23:04:32,754 - INFO - Getting stock data for COGN3
+2024-06-17 23:04:32,760 - INFO - Starting stock scrapper for ABEV3
+2024-06-17 23:04:32,760 - INFO - Getting stock data for B3SA3
+2024-06-17 23:04:32,760 - INFO - Starting stock scrapper for MGLU3
+2024-06-17 23:04:32,760 - INFO - Getting stock data for ABEV3
+2024-06-17 23:04:32,760 - INFO - Getting stock data for MGLU3
+2024-06-17 23:04:32,954 - INFO - Extracting stock info
+2024-06-17 23:04:32,963 - INFO - Normalizing data
+2024-06-17 23:04:32,985 - INFO - Extracting stock info
+2024-06-17 23:04:32,991 - INFO - Normalizing data
+2024-06-17 23:04:33,027 - INFO - Extracting stock info
+2024-06-17 23:04:33,030 - INFO - Normalizing data
+2024-06-17 23:04:33,039 - INFO - Extracting stock info
+2024-06-17 23:04:33,039 - INFO - Extracting stock info
+2024-06-17 23:04:33,051 - INFO - Extracting stock info
+2024-06-17 23:04:33,075 - INFO - Extracting stock info
+2024-06-17 23:04:33,081 - INFO - Extracting stock info
+2024-06-17 23:04:33,081 - INFO - Normalizing data
+2024-06-17 23:04:33,087 - INFO - Normalizing data
+2024-06-17 23:04:33,093 - INFO - Normalizing data
+2024-06-17 23:04:33,093 - INFO - Normalizing data
+2024-06-17 23:04:33,099 - INFO - Normalizing data
+2024-06-17 23:04:33,126 - INFO - Stock data extraction and normalization complete for HAPV3
+2024-06-17 23:04:33,132 - INFO - Stock data extraction and normalization complete for B3SA3
+2024-06-17 23:04:33,153 - INFO - Starting stock scrapper for PCAR3
+2024-06-17 23:04:33,136 - INFO - Stock data extraction and normalization complete for PETR4
+2024-06-17 23:04:33,142 - INFO - Starting stock scrapper for CPLE3
+2024-06-17 23:04:33,142 - INFO - Stock data extraction and normalization complete for MGLU3
+2024-06-17 23:04:33,148 - INFO - Stock data extraction and normalization complete for ABEV3
+2024-06-17 23:04:33,153 - INFO - Stock data extraction and normalization complete for CIEL3
+2024-06-17 23:04:33,133 - INFO - Stock data extraction and normalization complete for BBDC4
+2024-06-17 23:04:33,156 - INFO - Getting stock data for PCAR3
+2024-06-17 23:04:33,162 - INFO - Starting stock scrapper for ITSA4
+2024-06-17 23:04:33,162 - INFO - Stock data extraction and normalization complete for COGN3
+2024-06-17 23:04:33,162 - INFO - Getting stock data for CPLE3
+2024-06-17 23:04:33,162 - INFO - Starting stock scrapper for RAIZ4
+2024-06-17 23:04:33,162 - INFO - Starting stock scrapper for ITUB4
+2024-06-17 23:04:33,162 - INFO - Starting stock scrapper for AMER3
+2024-06-17 23:04:33,162 - INFO - Starting stock scrapper for CPLE6
+2024-06-17 23:04:33,167 - INFO - Getting stock data for CPLE6
+2024-06-17 23:04:33,162 - INFO - Starting stock scrapper for LREN3
+2024-06-17 23:04:33,162 - INFO - Getting stock data for RAIZ4
+2024-06-17 23:04:33,162 - INFO - Getting stock data for ITUB4
+2024-06-17 23:04:33,167 - INFO - Getting stock data for AMER3
+2024-06-17 23:04:33,162 - INFO - Getting stock data for ITSA4
+2024-06-17 23:04:33,167 - INFO - Getting stock data for LREN3
+2024-06-17 23:04:33,289 - INFO - Extracting stock info
+2024-06-17 23:04:33,293 - INFO - Normalizing data
+2024-06-17 23:04:33,306 - INFO - Stock data extraction and normalization complete for PCAR3
+2024-06-17 23:04:33,306 - INFO - Starting stock scrapper for PETZ3
+2024-06-17 23:04:33,362 - INFO - Extracting stock info
+2024-06-17 23:04:33,374 - INFO - Extracting stock info
+2024-06-17 23:04:33,386 - INFO - Extracting stock info
+2024-06-17 23:04:33,399 - INFO - Extracting stock info
+2024-06-17 23:04:33,410 - INFO - Extracting stock info
+2024-06-17 23:04:33,440 - INFO - Extracting stock info
+2024-06-17 23:04:33,440 - INFO - Extracting stock info
+2024-06-17 23:04:33,440 - INFO - Getting stock data for PETZ3
+2024-06-17 23:04:33,444 - INFO - Normalizing data
+2024-06-17 23:04:33,446 - INFO - Normalizing data
+2024-06-17 23:04:33,451 - INFO - Normalizing data
+2024-06-17 23:04:33,452 - INFO - Normalizing data
+2024-06-17 23:04:33,458 - INFO - Normalizing data
+2024-06-17 23:04:33,458 - INFO - Normalizing data
+2024-06-17 23:04:33,465 - INFO - Normalizing data
+2024-06-17 23:04:33,483 - INFO - Stock data extraction and normalization complete for ITUB4
+2024-06-17 23:04:33,488 - INFO - Stock data extraction and normalization complete for CPLE6
+2024-06-17 23:04:33,497 - INFO - Stock data extraction and normalization complete for CPLE3
+2024-06-17 23:04:33,509 - INFO - Stock data extraction and normalization complete for RAIZ4
+2024-06-17 23:04:33,512 - INFO - Stock data extraction and normalization complete for AMER3
+2024-06-17 23:04:33,512 - INFO - Stock data extraction and normalization complete for ITSA4
+2024-06-17 23:04:33,518 - INFO - Starting stock scrapper for PETR3
+2024-06-17 23:04:33,523 - INFO - Starting stock scrapper for VALE3
+2024-06-17 23:04:33,524 - INFO - Getting stock data for VALE3
+2024-06-17 23:04:33,524 - INFO - Starting stock scrapper for WEGE3
+2024-06-17 23:04:33,524 - INFO - Starting stock scrapper for BBAS3
+2024-06-17 23:04:33,524 - INFO - Starting stock scrapper for CMIG4
+2024-06-17 23:04:33,524 - INFO - Starting stock scrapper for GGBR4
+2024-06-17 23:04:33,524 - INFO - Getting stock data for PETR3
+2024-06-17 23:04:33,524 - INFO - Stock data extraction and normalization complete for LREN3
+2024-06-17 23:04:33,524 - INFO - Getting stock data for WEGE3
+2024-06-17 23:04:33,524 - INFO - Getting stock data for BBAS3
+2024-06-17 23:04:33,524 - INFO - Getting stock data for CMIG4
+2024-06-17 23:04:33,524 - INFO - Getting stock data for GGBR4
+2024-06-17 23:04:33,524 - INFO - Starting stock scrapper for CSAN3
+2024-06-17 23:04:33,530 - INFO - Getting stock data for CSAN3
+2024-06-17 23:04:33,639 - INFO - Extracting stock info
+2024-06-17 23:04:33,645 - INFO - Normalizing data
+2024-06-17 23:04:33,663 - INFO - Stock data extraction and normalization complete for PETZ3
+2024-06-17 23:04:33,663 - INFO - Starting stock scrapper for EQTL3
+2024-06-17 23:04:33,675 - INFO - Getting stock data for EQTL3
+2024-06-17 23:04:33,754 - INFO - Extracting stock info
+2024-06-17 23:04:33,779 - INFO - Extracting stock info
+2024-06-17 23:04:33,797 - INFO - Normalizing data
+2024-06-17 23:04:33,809 - INFO - Extracting stock info
+2024-06-17 23:04:33,809 - INFO - Extracting stock info
+2024-06-17 23:04:33,833 - INFO - Normalizing data
+2024-06-17 23:04:33,845 - INFO - Extracting stock info
+2024-06-17 23:04:33,851 - INFO - Extracting stock info
+2024-06-17 23:04:33,864 - INFO - Stock data extraction and normalization complete for CMIG4
+2024-06-17 23:04:33,870 - INFO - Extracting stock info
+2024-06-17 23:04:33,870 - INFO - Normalizing data
+2024-06-17 23:04:33,875 - INFO - Normalizing data
+2024-06-17 23:04:33,881 - INFO - Stock data extraction and normalization complete for CSAN3
+2024-06-17 23:04:33,881 - INFO - Normalizing data
+2024-06-17 23:04:33,888 - INFO - Starting stock scrapper for NTCO3
+2024-06-17 23:04:33,888 - INFO - Normalizing data
+2024-06-17 23:04:33,894 - INFO - Normalizing data
+2024-06-17 23:04:33,901 - INFO - Stock data extraction and normalization complete for PETR3
+2024-06-17 23:04:33,906 - INFO - Starting stock scrapper for MRVE3
+2024-06-17 23:04:33,907 - INFO - Stock data extraction and normalization complete for GGBR4
+2024-06-17 23:04:33,913 - INFO - Getting stock data for NTCO3
+2024-06-17 23:04:33,917 - INFO - Stock data extraction and normalization complete for BBAS3
+2024-06-17 23:04:33,930 - INFO - Stock data extraction and normalization complete for WEGE3
+2024-06-17 23:04:33,931 - INFO - Starting stock scrapper for RAIL3
+2024-06-17 23:04:33,931 - INFO - Stock data extraction and normalization complete for VALE3
+2024-06-17 23:04:33,931 - INFO - Getting stock data for MRVE3
+2024-06-17 23:04:33,931 - INFO - Starting stock scrapper for CVCB3
+2024-06-17 23:04:33,931 - INFO - Starting stock scrapper for AZUL4
+2024-06-17 23:04:33,931 - INFO - Starting stock scrapper for PRIO3
+2024-06-17 23:04:33,935 - INFO - Getting stock data for RAIL3
+2024-06-17 23:04:33,935 - INFO - Starting stock scrapper for RENT3
+2024-06-17 23:04:33,936 - INFO - Getting stock data for CVCB3
+2024-06-17 23:04:33,936 - INFO - Getting stock data for AZUL4
+2024-06-17 23:04:33,937 - INFO - Getting stock data for PRIO3
+2024-06-17 23:04:33,937 - INFO - Getting stock data for RENT3
+2024-06-17 23:04:33,990 - INFO - Extracting stock info
+2024-06-17 23:04:33,996 - INFO - Normalizing data
+2024-06-17 23:04:34,002 - INFO - Stock data extraction and normalization complete for EQTL3
+2024-06-17 23:04:34,002 - INFO - Starting stock scrapper for AURE3
+2024-06-17 23:04:34,002 - INFO - Getting stock data for AURE3
+2024-06-17 23:04:34,057 - INFO - Extracting stock info
+2024-06-17 23:04:34,063 - INFO - Normalizing data
+2024-06-17 23:04:34,081 - INFO - Stock data extraction and normalization complete for NTCO3
+2024-06-17 23:04:34,087 - INFO - Starting stock scrapper for DASA3
+2024-06-17 23:04:34,087 - INFO - Extracting stock info
+2024-06-17 23:04:34,087 - INFO - Getting stock data for DASA3
+2024-06-17 23:04:34,117 - INFO - Normalizing data
+2024-06-17 23:04:34,117 - INFO - Extracting stock info
+2024-06-17 23:04:34,142 - INFO - Extracting stock info
+2024-06-17 23:04:34,148 - INFO - Normalizing data
+2024-06-17 23:04:34,148 - INFO - Extracting stock info
+2024-06-17 23:04:34,154 - INFO - Stock data extraction and normalization complete for MRVE3
+2024-06-17 23:04:34,167 - INFO - Normalizing data
+2024-06-17 23:04:34,178 - INFO - Extracting stock info
+2024-06-17 23:04:34,184 - INFO - Stock data extraction and normalization complete for PRIO3
+2024-06-17 23:04:34,184 - INFO - Starting stock scrapper for EMBR3
+2024-06-17 23:04:34,184 - INFO - Normalizing data
+2024-06-17 23:04:34,190 - INFO - Normalizing data
+2024-06-17 23:04:34,196 - INFO - Stock data extraction and normalization complete for RENT3
+2024-06-17 23:04:34,196 - INFO - Starting stock scrapper for SOMA3
+2024-06-17 23:04:34,220 - INFO - Getting stock data for EMBR3
+2024-06-17 23:04:34,232 - INFO - Extracting stock info
+2024-06-17 23:04:34,232 - INFO - Extracting stock info
+2024-06-17 23:04:34,239 - INFO - Stock data extraction and normalization complete for RAIL3
+2024-06-17 23:04:34,239 - INFO - Starting stock scrapper for ELET3
+2024-06-17 23:04:34,245 - INFO - Stock data extraction and normalization complete for CVCB3
+2024-06-17 23:04:34,245 - INFO - Getting stock data for SOMA3
+2024-06-17 23:04:34,245 - INFO - Normalizing data
+2024-06-17 23:04:34,253 - INFO - Normalizing data
+2024-06-17 23:04:34,253 - INFO - Starting stock scrapper for GOAU4
+2024-06-17 23:04:34,253 - INFO - Getting stock data for ELET3
+2024-06-17 23:04:34,253 - INFO - Starting stock scrapper for JBSS3
+2024-06-17 23:04:34,264 - INFO - Stock data extraction and normalization complete for AURE3
+2024-06-17 23:04:34,275 - INFO - Starting stock scrapper for VAMO3
+2024-06-17 23:04:34,270 - INFO - Stock data extraction and normalization complete for AZUL4
+2024-06-17 23:04:34,275 - INFO - Getting stock data for JBSS3
+2024-06-17 23:04:34,270 - INFO - Getting stock data for GOAU4
+2024-06-17 23:04:34,276 - INFO - Getting stock data for VAMO3
+2024-06-17 23:04:34,276 - INFO - Starting stock scrapper for USIM5
+2024-06-17 23:04:34,278 - INFO - Getting stock data for USIM5
+2024-06-17 23:04:34,302 - INFO - Extracting stock info
+2024-06-17 23:04:34,307 - INFO - Normalizing data
+2024-06-17 23:04:34,313 - INFO - Stock data extraction and normalization complete for DASA3
+2024-06-17 23:04:34,313 - INFO - Starting stock scrapper for CYRE3
+2024-06-17 23:04:34,313 - INFO - Getting stock data for CYRE3
+2024-06-17 23:04:34,404 - INFO - Extracting stock info
+2024-06-17 23:04:34,415 - INFO - Normalizing data
+2024-06-17 23:04:34,428 - INFO - Stock data extraction and normalization complete for EMBR3
+2024-06-17 23:04:34,445 - INFO - Starting stock scrapper for LWSA3
+2024-06-17 23:04:34,463 - INFO - Extracting stock info
+2024-06-17 23:04:34,481 - INFO - Extracting stock info
+2024-06-17 23:04:34,481 - INFO - Getting stock data for LWSA3
+2024-06-17 23:04:34,481 - INFO - Extracting stock info
+2024-06-17 23:04:34,487 - INFO - Extracting stock info
+2024-06-17 23:04:34,499 - INFO - Normalizing data
+2024-06-17 23:04:34,524 - INFO - Normalizing data
+2024-06-17 23:04:34,524 - INFO - Extracting stock info
+2024-06-17 23:04:34,544 - INFO - Extracting stock info
+2024-06-17 23:04:34,544 - INFO - Extracting stock info
+2024-06-17 23:04:34,548 - INFO - Normalizing data
+2024-06-17 23:04:34,552 - INFO - Normalizing data
+2024-06-17 23:04:34,561 - INFO - Stock data extraction and normalization complete for USIM5
+2024-06-17 23:04:34,561 - INFO - Stock data extraction and normalization complete for VAMO3
+2024-06-17 23:04:34,561 - INFO - Normalizing data
+2024-06-17 23:04:34,561 - INFO - Normalizing data
+2024-06-17 23:04:34,561 - INFO - Normalizing data
+2024-06-17 23:04:34,576 - INFO - Stock data extraction and normalization complete for SOMA3
+2024-06-17 23:04:34,576 - INFO - Stock data extraction and normalization complete for JBSS3
+2024-06-17 23:04:34,576 - INFO - Starting stock scrapper for TOTS3
+2024-06-17 23:04:34,576 - INFO - Starting stock scrapper for OIBR3
+2024-06-17 23:04:34,592 - INFO - Stock data extraction and normalization complete for ELET3
+2024-06-17 23:04:34,592 - INFO - Stock data extraction and normalization complete for CYRE3
+2024-06-17 23:04:34,592 - INFO - Stock data extraction and normalization complete for GOAU4
+2024-06-17 23:04:34,592 - INFO - Starting stock scrapper for CSNA3
+2024-06-17 23:04:34,592 - INFO - Starting stock scrapper for RADL3
+2024-06-17 23:04:34,592 - INFO - Getting stock data for TOTS3
+2024-06-17 23:04:34,592 - INFO - Getting stock data for OIBR3
+2024-06-17 23:04:34,592 - INFO - Starting stock scrapper for SUZB3
+2024-06-17 23:04:34,592 - INFO - Starting stock scrapper for ONCO3
+2024-06-17 23:04:34,592 - INFO - Starting stock scrapper for UGPA3
+2024-06-17 23:04:34,592 - INFO - Getting stock data for CSNA3
+2024-06-17 23:04:34,592 - INFO - Getting stock data for RADL3
+2024-06-17 23:04:34,592 - INFO - Getting stock data for SUZB3
+2024-06-17 23:04:34,592 - INFO - Getting stock data for ONCO3
+2024-06-17 23:04:34,592 - INFO - Getting stock data for UGPA3
+2024-06-17 23:04:34,679 - INFO - Extracting stock info
+2024-06-17 23:04:34,679 - INFO - Normalizing data
+2024-06-17 23:04:34,695 - INFO - Stock data extraction and normalization complete for LWSA3
+2024-06-17 23:04:34,695 - INFO - Starting stock scrapper for BEEF3
+2024-06-17 23:04:34,695 - INFO - Getting stock data for BEEF3
+2024-06-17 23:04:34,726 - INFO - Extracting stock info
+2024-06-17 23:04:34,733 - INFO - Normalizing data
+2024-06-17 23:04:34,733 - INFO - Stock data extraction and normalization complete for OIBR3
+2024-06-17 23:04:34,733 - INFO - Starting stock scrapper for ASAI3
+2024-06-17 23:04:34,733 - INFO - Getting stock data for ASAI3
+2024-06-17 23:04:34,811 - INFO - Extracting stock info
+2024-06-17 23:04:34,811 - INFO - Normalizing data
+2024-06-17 23:04:34,811 - INFO - Stock data extraction and normalization complete for TOTS3
+2024-06-17 23:04:34,811 - INFO - Starting stock scrapper for CMIN3
+2024-06-17 23:04:34,811 - INFO - Getting stock data for CMIN3
+2024-06-17 23:04:34,826 - INFO - Extracting stock info
+2024-06-17 23:04:34,826 - INFO - Normalizing data
+2024-06-17 23:04:34,833 - INFO - Stock data extraction and normalization complete for ONCO3
+2024-06-17 23:04:34,849 - INFO - Starting stock scrapper for CCRO3
+2024-06-17 23:04:34,864 - INFO - Getting stock data for CCRO3
+2024-06-17 23:04:34,864 - INFO - Extracting stock info
+2024-06-17 23:04:34,864 - INFO - Extracting stock info
+2024-06-17 23:04:34,880 - INFO - Extracting stock info
+2024-06-17 23:04:34,895 - INFO - Normalizing data
+2024-06-17 23:04:34,895 - INFO - Extracting stock info
+2024-06-17 23:04:34,895 - INFO - Normalizing data
+2024-06-17 23:04:34,911 - INFO - Extracting stock info
+2024-06-17 23:04:34,914 - INFO - Normalizing data
+2024-06-17 23:04:34,918 - INFO - Stock data extraction and normalization complete for RADL3
+2024-06-17 23:04:34,925 - INFO - Normalizing data
+2024-06-17 23:04:34,933 - INFO - Normalizing data
+2024-06-17 23:04:34,935 - INFO - Stock data extraction and normalization complete for CSNA3
+2024-06-17 23:04:34,943 - INFO - Starting stock scrapper for TIMS3
+2024-06-17 23:04:34,943 - INFO - Stock data extraction and normalization complete for UGPA3
+2024-06-17 23:04:34,955 - INFO - Stock data extraction and normalization complete for SUZB3
+2024-06-17 23:04:34,955 - INFO - Stock data extraction and normalization complete for BEEF3
+2024-06-17 23:04:34,955 - INFO - Starting stock scrapper for ALPA4
+2024-06-17 23:04:34,955 - INFO - Getting stock data for TIMS3
+2024-06-17 23:04:34,955 - INFO - Starting stock scrapper for ALOS3
+2024-06-17 23:04:34,955 - INFO - Starting stock scrapper for MRFG3
+2024-06-17 23:04:34,955 - INFO - Starting stock scrapper for AESB3
+2024-06-17 23:04:34,960 - INFO - Getting stock data for AESB3
+2024-06-17 23:04:34,955 - INFO - Getting stock data for ALOS3
+2024-06-17 23:04:34,955 - INFO - Getting stock data for MRFG3
+2024-06-17 23:04:34,955 - INFO - Getting stock data for ALPA4
+2024-06-17 23:04:35,023 - INFO - Extracting stock info
+2024-06-17 23:04:35,026 - INFO - Normalizing data
+2024-06-17 23:04:35,031 - INFO - Stock data extraction and normalization complete for ASAI3
+2024-06-17 23:04:35,033 - INFO - Starting stock scrapper for SBSP3
+2024-06-17 23:04:35,033 - INFO - Getting stock data for SBSP3
+2024-06-17 23:04:35,049 - INFO - Extracting stock info
+2024-06-17 23:04:35,049 - INFO - Normalizing data
+2024-06-17 23:04:35,049 - INFO - Stock data extraction and normalization complete for CMIN3
+2024-06-17 23:04:35,049 - INFO - Starting stock scrapper for STBP3
+2024-06-17 23:04:35,049 - INFO - Getting stock data for STBP3
+2024-06-17 23:04:35,064 - INFO - Extracting stock info
+2024-06-17 23:04:35,064 - INFO - Normalizing data
+2024-06-17 23:04:35,080 - INFO - Stock data extraction and normalization complete for CCRO3
+2024-06-17 23:04:35,080 - INFO - Starting stock scrapper for ENEV3
+2024-06-17 23:04:35,080 - INFO - Getting stock data for ENEV3
+2024-06-17 23:04:35,111 - INFO - Extracting stock info
+2024-06-17 23:04:35,127 - INFO - Extracting stock info
+2024-06-17 23:04:35,149 - INFO - Normalizing data
+2024-06-17 23:04:35,149 - INFO - Extracting stock info
+2024-06-17 23:04:35,149 - INFO - Extracting stock info
+2024-06-17 23:04:35,149 - INFO - Normalizing data
+2024-06-17 23:04:35,149 - INFO - Stock data extraction and normalization complete for ALOS3
+2024-06-17 23:04:35,149 - INFO - Normalizing data
+2024-06-17 23:04:35,165 - INFO - Normalizing data
+2024-06-17 23:04:35,180 - INFO - Stock data extraction and normalization complete for TIMS3
+2024-06-17 23:04:35,180 - INFO - Starting stock scrapper for IFCM3
+2024-06-17 23:04:35,180 - INFO - Stock data extraction and normalization complete for ALPA4
+2024-06-17 23:04:35,180 - INFO - Extracting stock info
+2024-06-17 23:04:35,196 - INFO - Starting stock scrapper for CBAV3
+2024-06-17 23:04:35,196 - INFO - Stock data extraction and normalization complete for MRFG3
+2024-06-17 23:04:35,196 - INFO - Getting stock data for IFCM3
+2024-06-17 23:04:35,196 - INFO - Starting stock scrapper for BBDC3
+2024-06-17 23:04:35,196 - INFO - Normalizing data
+2024-06-17 23:04:35,196 - INFO - Getting stock data for CBAV3
+2024-06-17 23:04:35,196 - INFO - Starting stock scrapper for ANIM3
+2024-06-17 23:04:35,196 - INFO - Getting stock data for BBDC3
+2024-06-17 23:04:35,211 - INFO - Getting stock data for ANIM3
+2024-06-17 23:04:35,211 - INFO - Stock data extraction and normalization complete for AESB3
+2024-06-17 23:04:35,211 - INFO - Starting stock scrapper for BRFS3
+2024-06-17 23:04:35,211 - INFO - Getting stock data for BRFS3
+2024-06-17 23:04:35,247 - INFO - Extracting stock info
+2024-06-17 23:04:35,257 - INFO - Normalizing data
+2024-06-17 23:04:35,263 - INFO - Stock data extraction and normalization complete for STBP3
+2024-06-17 23:04:35,263 - INFO - Starting stock scrapper for CRFB3
+2024-06-17 23:04:35,263 - INFO - Getting stock data for CRFB3
+2024-06-17 23:04:35,287 - INFO - Extracting stock info
+2024-06-17 23:04:35,287 - INFO - Normalizing data
+2024-06-17 23:04:35,313 - INFO - Stock data extraction and normalization complete for SBSP3
+2024-06-17 23:04:35,313 - INFO - Starting stock scrapper for GMAT3
+2024-06-17 23:04:35,313 - INFO - Getting stock data for GMAT3
+2024-06-17 23:04:35,322 - INFO - Extracting stock info
+2024-06-17 23:04:35,326 - INFO - Normalizing data
+2024-06-17 23:04:35,330 - INFO - Stock data extraction and normalization complete for ENEV3
+2024-06-17 23:04:35,330 - INFO - Starting stock scrapper for YDUQ3
+2024-06-17 23:04:35,330 - INFO - Getting stock data for YDUQ3
+2024-06-17 23:04:35,366 - INFO - Extracting stock info
+2024-06-17 23:04:35,366 - INFO - Normalizing data
+2024-06-17 23:04:35,366 - INFO - Stock data extraction and normalization complete for IFCM3
+2024-06-17 23:04:35,366 - INFO - Starting stock scrapper for VBBR3
+2024-06-17 23:04:35,366 - INFO - Getting stock data for VBBR3
+2024-06-17 23:04:35,406 - INFO - Extracting stock info
+2024-06-17 23:04:35,406 - INFO - Extracting stock info
+2024-06-17 23:04:35,406 - INFO - Normalizing data
+2024-06-17 23:04:35,422 - INFO - Normalizing data
+2024-06-17 23:04:35,442 - INFO - Extracting stock info
+2024-06-17 23:04:35,442 - INFO - Extracting stock info
+2024-06-17 23:04:35,458 - INFO - Stock data extraction and normalization complete for BBDC3
+2024-06-17 23:04:35,474 - INFO - Extracting stock info
+2024-06-17 23:04:35,489 - INFO - Stock data extraction and normalization complete for ANIM3
+2024-06-17 23:04:35,489 - INFO - Normalizing data
+2024-06-17 23:04:35,489 - INFO - Extracting stock info
+2024-06-17 23:04:35,489 - INFO - Normalizing data
+2024-06-17 23:04:35,505 - INFO - Starting stock scrapper for MOVI3
+2024-06-17 23:04:35,505 - INFO - Extracting stock info
+2024-06-17 23:04:35,521 - INFO - Starting stock scrapper for ECOR3
+2024-06-17 23:04:35,521 - INFO - Normalizing data
+2024-06-17 23:04:35,521 - INFO - Stock data extraction and normalization complete for CBAV3
+2024-06-17 23:04:35,521 - INFO - Normalizing data
+2024-06-17 23:04:35,534 - INFO - Stock data extraction and normalization complete for BRFS3
+2024-06-17 23:04:35,534 - INFO - Getting stock data for MOVI3
+2024-06-17 23:04:35,534 - INFO - Normalizing data
+2024-06-17 23:04:35,534 - INFO - Getting stock data for ECOR3
+2024-06-17 23:04:35,534 - INFO - Stock data extraction and normalization complete for CRFB3
+2024-06-17 23:04:35,534 - INFO - Starting stock scrapper for HBSA3
+2024-06-17 23:04:35,534 - INFO - Starting stock scrapper for VIVA3
+2024-06-17 23:04:35,549 - INFO - Stock data extraction and normalization complete for YDUQ3
+2024-06-17 23:04:35,549 - INFO - Stock data extraction and normalization complete for GMAT3
+2024-06-17 23:04:35,549 - INFO - Starting stock scrapper for BBSE3
+2024-06-17 23:04:35,596 - INFO - Getting stock data for HBSA3
+2024-06-17 23:04:35,596 - INFO - Getting stock data for VIVA3
+2024-06-17 23:04:35,596 - INFO - Extracting stock info
+2024-06-17 23:04:35,596 - INFO - Starting stock scrapper for VIVT3
+2024-06-17 23:04:35,596 - INFO - Starting stock scrapper for SIMH3
+2024-06-17 23:04:35,596 - INFO - Getting stock data for BBSE3
+2024-06-17 23:04:35,612 - INFO - Normalizing data
+2024-06-17 23:04:35,612 - INFO - Getting stock data for VIVT3
+2024-06-17 23:04:35,612 - INFO - Getting stock data for SIMH3
+2024-06-17 23:04:35,612 - INFO - Stock data extraction and normalization complete for VBBR3
+2024-06-17 23:04:35,612 - INFO - Starting stock scrapper for SMTO3
+2024-06-17 23:04:35,612 - INFO - Getting stock data for SMTO3
+2024-06-17 23:04:35,699 - INFO - Extracting stock info
+2024-06-17 23:04:35,706 - INFO - Normalizing data
+2024-06-17 23:04:35,712 - INFO - Stock data extraction and normalization complete for MOVI3
+2024-06-17 23:04:35,712 - INFO - Starting stock scrapper for POMO4
+2024-06-17 23:04:35,712 - INFO - Getting stock data for POMO4
+2024-06-17 23:04:35,734 - INFO - Extracting stock info
+2024-06-17 23:04:35,736 - INFO - Normalizing data
+2024-06-17 23:04:35,736 - INFO - Stock data extraction and normalization complete for ECOR3
+2024-06-17 23:04:35,736 - INFO - Starting stock scrapper for JHSF3
+2024-06-17 23:04:35,736 - INFO - Getting stock data for JHSF3
+2024-06-17 23:04:35,751 - INFO - Extracting stock info
+2024-06-17 23:04:35,751 - INFO - Normalizing data
+2024-06-17 23:04:35,767 - INFO - Stock data extraction and normalization complete for HBSA3
+2024-06-17 23:04:35,767 - INFO - Starting stock scrapper for CEAB3
+2024-06-17 23:04:35,767 - INFO - Getting stock data for CEAB3
+2024-06-17 23:04:35,783 - INFO - Extracting stock info
+2024-06-17 23:04:35,783 - INFO - Normalizing data
+2024-06-17 23:04:35,783 - INFO - Stock data extraction and normalization complete for BBSE3
+2024-06-17 23:04:35,783 - INFO - Starting stock scrapper for RDOR3
+2024-06-17 23:04:35,783 - INFO - Getting stock data for RDOR3
+2024-06-17 23:04:35,840 - INFO - Extracting stock info
+2024-06-17 23:04:35,858 - INFO - Extracting stock info
+2024-06-17 23:04:35,864 - INFO - Normalizing data
+2024-06-17 23:04:35,876 - INFO - Stock data extraction and normalization complete for VIVT3
+2024-06-17 23:04:35,876 - INFO - Starting stock scrapper for BHIA3
+2024-06-17 23:04:35,876 - INFO - Getting stock data for BHIA3
+2024-06-17 23:04:35,881 - INFO - Normalizing data
+2024-06-17 23:04:35,882 - INFO - Extracting stock info
+2024-06-17 23:04:35,882 - INFO - Normalizing data
+2024-06-17 23:04:35,894 - INFO - Stock data extraction and normalization complete for VIVA3
+2024-06-17 23:04:35,894 - INFO - Starting stock scrapper for CURY3
+2024-06-17 23:04:35,894 - INFO - Getting stock data for CURY3
+2024-06-17 23:04:35,894 - INFO - Stock data extraction and normalization complete for SMTO3
+2024-06-17 23:04:35,894 - INFO - Starting stock scrapper for LJQQ3
+2024-06-17 23:04:35,899 - INFO - Getting stock data for LJQQ3
+2024-06-17 23:04:35,899 - INFO - Extracting stock info
+2024-06-17 23:04:35,907 - INFO - Normalizing data
+2024-06-17 23:04:35,924 - INFO - Extracting stock info
+2024-06-17 23:04:35,928 - INFO - Normalizing data
+2024-06-17 23:04:35,934 - INFO - Stock data extraction and normalization complete for POMO4
+2024-06-17 23:04:35,934 - INFO - Starting stock scrapper for SBFG3
+2024-06-17 23:04:35,934 - INFO - Getting stock data for SBFG3
+2024-06-17 23:04:35,937 - INFO - Stock data extraction and normalization complete for SIMH3
+2024-06-17 23:04:35,937 - INFO - Starting stock scrapper for MULT3
+2024-06-17 23:04:35,937 - INFO - Getting stock data for MULT3
+2024-06-17 23:04:35,999 - INFO - Extracting stock info
+2024-06-17 23:04:36,004 - INFO - Normalizing data
+2024-06-17 23:04:36,026 - INFO - Stock data extraction and normalization complete for RDOR3
+2024-06-17 23:04:36,026 - INFO - Starting stock scrapper for GOLL4
+2024-06-17 23:04:36,026 - INFO - Getting stock data for GOLL4
+2024-06-17 23:04:36,027 - INFO - Extracting stock info
+2024-06-17 23:04:36,028 - INFO - Normalizing data
+2024-06-17 23:04:36,046 - INFO - Stock data extraction and normalization complete for CEAB3
+2024-06-17 23:04:36,046 - INFO - Starting stock scrapper for BRAP4
+2024-06-17 23:04:36,046 - INFO - Getting stock data for BRAP4
+2024-06-17 23:04:36,057 - INFO - Extracting stock info
+2024-06-17 23:04:36,075 - INFO - Extracting stock info
+2024-06-17 23:04:36,093 - INFO - Extracting stock info
+2024-06-17 23:04:36,093 - INFO - Normalizing data
+2024-06-17 23:04:36,106 - INFO - Extracting stock info
+2024-06-17 23:04:36,106 - INFO - Normalizing data
+2024-06-17 23:04:36,120 - INFO - Normalizing data
+2024-06-17 23:04:36,135 - INFO - Extracting stock info
+2024-06-17 23:04:36,135 - INFO - Stock data extraction and normalization complete for JHSF3
+2024-06-17 23:04:36,150 - INFO - Extracting stock info
+2024-06-17 23:04:36,150 - INFO - Normalizing data
+2024-06-17 23:04:36,166 - INFO - Stock data extraction and normalization complete for LJQQ3
+2024-06-17 23:04:36,166 - INFO - Stock data extraction and normalization complete for CURY3
+2024-06-17 23:04:36,166 - INFO - Normalizing data
+2024-06-17 23:04:36,166 - INFO - Starting stock scrapper for TRPL4
+2024-06-17 23:04:36,166 - INFO - Normalizing data
+2024-06-17 23:04:36,182 - INFO - Stock data extraction and normalization complete for BHIA3
+2024-06-17 23:04:36,182 - INFO - Starting stock scrapper for ARZZ3
+2024-06-17 23:04:36,182 - INFO - Starting stock scrapper for MLAS3
+2024-06-17 23:04:36,182 - INFO - Stock data extraction and normalization complete for SBFG3
+2024-06-17 23:04:36,182 - INFO - Getting stock data for TRPL4
+2024-06-17 23:04:36,197 - INFO - Stock data extraction and normalization complete for MULT3
+2024-06-17 23:04:36,197 - INFO - Starting stock scrapper for RRRP3
+2024-06-17 23:04:36,197 - INFO - Getting stock data for ARZZ3
+2024-06-17 23:04:36,197 - INFO - Getting stock data for MLAS3
+2024-06-17 23:04:36,197 - INFO - Starting stock scrapper for GFSA3
+2024-06-17 23:04:36,197 - INFO - Starting stock scrapper for NEOE3
+2024-06-17 23:04:36,197 - INFO - Getting stock data for RRRP3
+2024-06-17 23:04:36,197 - INFO - Getting stock data for GFSA3
+2024-06-17 23:04:36,197 - INFO - Getting stock data for NEOE3
+2024-06-17 23:04:36,213 - INFO - Extracting stock info
+2024-06-17 23:04:36,229 - INFO - Normalizing data
+2024-06-17 23:04:36,235 - INFO - Stock data extraction and normalization complete for GOLL4
+2024-06-17 23:04:36,235 - INFO - Starting stock scrapper for CXSE3
+2024-06-17 23:04:36,235 - INFO - Getting stock data for CXSE3
+2024-06-17 23:04:36,282 - INFO - Extracting stock info
+2024-06-17 23:04:36,282 - INFO - Normalizing data
+2024-06-17 23:04:36,298 - INFO - Stock data extraction and normalization complete for BRAP4
+2024-06-17 23:04:36,298 - INFO - Starting stock scrapper for DIRR3
+2024-06-17 23:04:36,298 - INFO - Getting stock data for DIRR3
+2024-06-17 23:04:36,313 - INFO - Extracting stock info
+2024-06-17 23:04:36,329 - INFO - Normalizing data
+2024-06-17 23:04:36,335 - INFO - Stock data extraction and normalization complete for MLAS3
+2024-06-17 23:04:36,335 - INFO - Starting stock scrapper for BRKM5
+2024-06-17 23:04:36,335 - INFO - Getting stock data for BRKM5
+2024-06-17 23:04:36,367 - INFO - Extracting stock info
+2024-06-17 23:04:36,367 - INFO - Extracting stock info
+2024-06-17 23:04:36,367 - INFO - Normalizing data
+2024-06-17 23:04:36,382 - INFO - Extracting stock info
+2024-06-17 23:04:36,413 - INFO - Extracting stock info
+2024-06-17 23:04:36,429 - INFO - Normalizing data
+2024-06-17 23:04:36,436 - INFO - Extracting stock info
+2024-06-17 23:04:36,436 - INFO - Extracting stock info
+2024-06-17 23:04:36,436 - INFO - Stock data extraction and normalization complete for ARZZ3
+2024-06-17 23:04:36,483 - INFO - Normalizing data
+2024-06-17 23:04:36,492 - INFO - Extracting stock info
+2024-06-17 23:04:36,505 - INFO - Stock data extraction and normalization complete for GFSA3
+2024-06-17 23:04:36,506 - INFO - Normalizing data
+2024-06-17 23:04:36,506 - INFO - Normalizing data
+2024-06-17 23:04:36,512 - INFO - Normalizing data
+2024-06-17 23:04:36,512 - INFO - Starting stock scrapper for EZTC3
+2024-06-17 23:04:36,518 - INFO - Stock data extraction and normalization complete for CXSE3
+2024-06-17 23:04:36,523 - INFO - Normalizing data
+2024-06-17 23:04:36,524 - INFO - Starting stock scrapper for CPFE3
+2024-06-17 23:04:36,537 - INFO - Stock data extraction and normalization complete for NEOE3
+2024-06-17 23:04:36,538 - INFO - Stock data extraction and normalization complete for TRPL4
+2024-06-17 23:04:36,543 - INFO - Stock data extraction and normalization complete for RRRP3
+2024-06-17 23:04:36,577 - INFO - Starting stock scrapper for ENAT3
+2024-06-17 23:04:36,577 - INFO - Getting stock data for ENAT3
+2024-06-17 23:04:36,543 - INFO - Starting stock scrapper for RECV3
+2024-06-17 23:04:36,568 - INFO - Getting stock data for CPFE3
+2024-06-17 23:04:36,576 - INFO - Extracting stock info
+2024-06-17 23:04:36,576 - INFO - Starting stock scrapper for PDGR3
+2024-06-17 23:04:36,585 - INFO - Getting stock data for PDGR3
+2024-06-17 23:04:36,543 - INFO - Getting stock data for EZTC3
+2024-06-17 23:04:36,560 - INFO - Stock data extraction and normalization complete for DIRR3
+2024-06-17 23:04:36,578 - INFO - Getting stock data for RECV3
+2024-06-17 23:04:36,585 - INFO - Normalizing data
+2024-06-17 23:04:36,576 - INFO - Starting stock scrapper for CLSA3
+2024-06-17 23:04:36,585 - INFO - Starting stock scrapper for HYPE3
+2024-06-17 23:04:36,598 - INFO - Stock data extraction and normalization complete for BRKM5
+2024-06-17 23:04:36,598 - INFO - Getting stock data for CLSA3
+2024-06-17 23:04:36,599 - INFO - Getting stock data for HYPE3
+2024-06-17 23:04:36,600 - INFO - Starting stock scrapper for MYPK3
+2024-06-17 23:04:36,601 - INFO - Getting stock data for MYPK3
+2024-06-17 23:04:36,712 - INFO - Extracting stock info
+2024-06-17 23:04:36,718 - INFO - Normalizing data
+2024-06-17 23:04:36,721 - INFO - Stock data extraction and normalization complete for PDGR3
+2024-06-17 23:04:36,721 - INFO - Starting stock scrapper for PSSA3
+2024-06-17 23:04:36,721 - INFO - Getting stock data for PSSA3
+2024-06-17 23:04:36,736 - INFO - Extracting stock info
+2024-06-17 23:04:36,736 - INFO - Normalizing data
+2024-06-17 23:04:36,767 - INFO - Stock data extraction and normalization complete for CPFE3
+2024-06-17 23:04:36,783 - INFO - Extracting stock info
+2024-06-17 23:04:36,798 - INFO - Extracting stock info
+2024-06-17 23:04:36,798 - INFO - Extracting stock info
+2024-06-17 23:04:36,814 - INFO - Extracting stock info
+2024-06-17 23:04:36,814 - INFO - Starting stock scrapper for QUAL3
+2024-06-17 23:04:36,830 - INFO - Extracting stock info
+2024-06-17 23:04:36,836 - INFO - Extracting stock info
+2024-06-17 23:04:36,836 - INFO - Normalizing data
+2024-06-17 23:04:36,836 - INFO - Normalizing data
+2024-06-17 23:04:36,852 - INFO - Normalizing data
+2024-06-17 23:04:36,852 - INFO - Normalizing data
+2024-06-17 23:04:36,852 - INFO - Getting stock data for QUAL3
+2024-06-17 23:04:36,852 - INFO - Normalizing data
+2024-06-17 23:04:36,852 - INFO - Normalizing data
+2024-06-17 23:04:36,867 - INFO - Stock data extraction and normalization complete for HYPE3
+2024-06-17 23:04:36,867 - INFO - Stock data extraction and normalization complete for CLSA3
+2024-06-17 23:04:36,867 - INFO - Stock data extraction and normalization complete for EZTC3
+2024-06-17 23:04:36,883 - INFO - Stock data extraction and normalization complete for RECV3
+2024-06-17 23:04:36,883 - INFO - Stock data extraction and normalization complete for ENAT3
+2024-06-17 23:04:36,883 - INFO - Stock data extraction and normalization complete for MYPK3
+2024-06-17 23:04:36,883 - INFO - Starting stock scrapper for EGIE3
+2024-06-17 23:04:36,883 - INFO - Starting stock scrapper for DXCO3
+2024-06-17 23:04:36,883 - INFO - Starting stock scrapper for SMFT3
+2024-06-17 23:04:36,883 - INFO - Starting stock scrapper for KLBN4
+2024-06-17 23:04:36,899 - INFO - Starting stock scrapper for ELET6
+2024-06-17 23:04:36,899 - INFO - Starting stock scrapper for SRNA3
+2024-06-17 23:04:36,899 - INFO - Getting stock data for EGIE3
+2024-06-17 23:04:36,899 - INFO - Getting stock data for DXCO3
+2024-06-17 23:04:36,899 - INFO - Getting stock data for SMFT3
+2024-06-17 23:04:36,899 - INFO - Getting stock data for KLBN4
+2024-06-17 23:04:36,899 - INFO - Getting stock data for ELET6
+2024-06-17 23:04:36,899 - INFO - Getting stock data for SRNA3
+2024-06-17 23:04:36,914 - INFO - Extracting stock info
+2024-06-17 23:04:36,930 - INFO - Normalizing data
+2024-06-17 23:04:36,937 - INFO - Stock data extraction and normalization complete for PSSA3
+2024-06-17 23:04:36,937 - INFO - Starting stock scrapper for AZEV4
+2024-06-17 23:04:36,937 - INFO - Getting stock data for AZEV4
+2024-06-17 23:04:37,021 - INFO - Extracting stock info
+2024-06-17 23:04:37,027 - INFO - Normalizing data
+2024-06-17 23:04:37,045 - INFO - Stock data extraction and normalization complete for QUAL3
+2024-06-17 23:04:37,045 - INFO - Starting stock scrapper for TEND3
+2024-06-17 23:04:37,045 - INFO - Getting stock data for TEND3
+2024-06-17 23:04:37,075 - INFO - Extracting stock info
+2024-06-17 23:04:37,075 - INFO - Normalizing data
+2024-06-17 23:04:37,106 - INFO - Stock data extraction and normalization complete for DXCO3
+2024-06-17 23:04:37,106 - INFO - Starting stock scrapper for VITT3
+2024-06-17 23:04:37,106 - INFO - Getting stock data for VITT3
+2024-06-17 23:04:37,148 - INFO - Extracting stock info
+2024-06-17 23:04:37,148 - INFO - Normalizing data
+2024-06-17 23:04:37,154 - INFO - Extracting stock info
+2024-06-17 23:04:37,160 - INFO - Stock data extraction and normalization complete for SRNA3
+2024-06-17 23:04:37,166 - INFO - Starting stock scrapper for RAPT4
+2024-06-17 23:04:37,166 - INFO - Extracting stock info
+2024-06-17 23:04:37,166 - INFO - Normalizing data
+2024-06-17 23:04:37,172 - INFO - Getting stock data for RAPT4
+2024-06-17 23:04:37,172 - INFO - Extracting stock info
+2024-06-17 23:04:37,178 - INFO - Extracting stock info
+2024-06-17 23:04:37,178 - INFO - Normalizing data
+2024-06-17 23:04:37,196 - INFO - Extracting stock info
+2024-06-17 23:04:37,202 - INFO - Stock data extraction and normalization complete for EGIE3
+2024-06-17 23:04:37,202 - INFO - Normalizing data
+2024-06-17 23:04:37,208 - INFO - Normalizing data
+2024-06-17 23:04:37,215 - INFO - Normalizing data
+2024-06-17 23:04:37,215 - INFO - Stock data extraction and normalization complete for SMFT3
+2024-06-17 23:04:37,215 - INFO - Starting stock scrapper for MILS3
+2024-06-17 23:04:37,215 - INFO - Stock data extraction and normalization complete for ELET6
+2024-06-17 23:04:37,230 - INFO - Stock data extraction and normalization complete for KLBN4
+2024-06-17 23:04:37,230 - INFO - Starting stock scrapper for GUAR3
+2024-06-17 23:04:37,239 - INFO - Stock data extraction and normalization complete for AZEV4
+2024-06-17 23:04:37,239 - INFO - Getting stock data for MILS3
+2024-06-17 23:04:37,239 - INFO - Starting stock scrapper for MTRE3
+2024-06-17 23:04:37,239 - INFO - Starting stock scrapper for EVEN3
+2024-06-17 23:04:37,239 - INFO - Getting stock data for GUAR3
+2024-06-17 23:04:37,239 - INFO - Starting stock scrapper for VVEO3
+2024-06-17 23:04:37,239 - INFO - Getting stock data for MTRE3
+2024-06-17 23:04:37,239 - INFO - Getting stock data for EVEN3
+2024-06-17 23:04:37,239 - INFO - Getting stock data for VVEO3
+2024-06-17 23:04:37,312 - INFO - Extracting stock info
+2024-06-17 23:04:37,318 - INFO - Normalizing data
+2024-06-17 23:04:37,337 - INFO - Stock data extraction and normalization complete for VITT3
+2024-06-17 23:04:37,342 - INFO - Starting stock scrapper for AMAR3
+2024-06-17 23:04:37,342 - INFO - Getting stock data for AMAR3
+2024-06-17 23:04:37,342 - INFO - Extracting stock info
+2024-06-17 23:04:37,348 - INFO - Normalizing data
+2024-06-17 23:04:37,354 - INFO - Stock data extraction and normalization complete for TEND3
+2024-06-17 23:04:37,354 - INFO - Starting stock scrapper for CASH3
+2024-06-17 23:04:37,354 - INFO - Getting stock data for CASH3
+2024-06-17 23:04:37,390 - INFO - Extracting stock info
+2024-06-17 23:04:37,390 - INFO - Normalizing data
+2024-06-17 23:04:37,423 - INFO - Stock data extraction and normalization complete for RAPT4
+2024-06-17 23:04:37,423 - INFO - Starting stock scrapper for SLCE3
+2024-06-17 23:04:37,423 - INFO - Getting stock data for SLCE3
+2024-06-17 23:04:37,441 - INFO - Extracting stock info
+2024-06-17 23:04:37,446 - INFO - Extracting stock info
+2024-06-17 23:04:37,457 - INFO - Normalizing data
+2024-06-17 23:04:37,458 - INFO - Extracting stock info
+2024-06-17 23:04:37,469 - INFO - Normalizing data
+2024-06-17 23:04:37,489 - INFO - Extracting stock info
+2024-06-17 23:04:37,538 - INFO - Stock data extraction and normalization complete for GUAR3
+2024-06-17 23:04:37,538 - INFO - Normalizing data
+2024-06-17 23:04:37,554 - INFO - Normalizing data
+2024-06-17 23:04:37,554 - INFO - Stock data extraction and normalization complete for MILS3
+2024-06-17 23:04:37,554 - INFO - Starting stock scrapper for ODPV3
+2024-06-17 23:04:37,554 - INFO - Extracting stock info
+2024-06-17 23:04:37,570 - INFO - Stock data extraction and normalization complete for MTRE3
+2024-06-17 23:04:37,585 - INFO - Starting stock scrapper for BRSR6
+2024-06-17 23:04:37,585 - INFO - Stock data extraction and normalization complete for EVEN3
+2024-06-17 23:04:37,585 - INFO - Getting stock data for ODPV3
+2024-06-17 23:04:37,601 - INFO - Extracting stock info
+2024-06-17 23:04:37,601 - INFO - Normalizing data
+2024-06-17 23:04:37,601 - INFO - Extracting stock info
+2024-06-17 23:04:37,601 - INFO - Starting stock scrapper for NGRD3
+2024-06-17 23:04:37,617 - INFO - Getting stock data for NGRD3
+2024-06-17 23:04:37,601 - INFO - Starting stock scrapper for SOJA3
+2024-06-17 23:04:37,617 - INFO - Normalizing data
+2024-06-17 23:04:37,617 - INFO - Stock data extraction and normalization complete for VVEO3
+2024-06-17 23:04:37,617 - INFO - Normalizing data
+2024-06-17 23:04:37,601 - INFO - Getting stock data for BRSR6
+2024-06-17 23:04:37,617 - INFO - Getting stock data for SOJA3
+2024-06-17 23:04:37,632 - INFO - Stock data extraction and normalization complete for AMAR3
+2024-06-17 23:04:37,638 - INFO - Starting stock scrapper for ZAMP3
+2024-06-17 23:04:37,638 - INFO - Stock data extraction and normalization complete for CASH3
+2024-06-17 23:04:37,632 - INFO - Starting stock scrapper for LIGT3
+2024-06-17 23:04:37,638 - INFO - Getting stock data for ZAMP3
+2024-06-17 23:04:37,638 - INFO - Starting stock scrapper for INTB3
+2024-06-17 23:04:37,638 - INFO - Getting stock data for INTB3
+2024-06-17 23:04:37,638 - INFO - Getting stock data for LIGT3
+2024-06-17 23:04:37,699 - INFO - Extracting stock info
+2024-06-17 23:04:37,706 - INFO - Normalizing data
+2024-06-17 23:04:37,712 - INFO - Stock data extraction and normalization complete for SLCE3
+2024-06-17 23:04:37,712 - INFO - Starting stock scrapper for BPAN4
+2024-06-17 23:04:37,712 - INFO - Getting stock data for BPAN4
+2024-06-17 23:04:37,767 - INFO - Extracting stock info
+2024-06-17 23:04:37,767 - INFO - Normalizing data
+2024-06-17 23:04:37,782 - INFO - Stock data extraction and normalization complete for NGRD3
+2024-06-17 23:04:37,796 - INFO - Starting stock scrapper for AMBP3
+2024-06-17 23:04:37,796 - INFO - Getting stock data for AMBP3
+2024-06-17 23:04:37,837 - INFO - Extracting stock info
+2024-06-17 23:04:37,854 - INFO - Extracting stock info
+2024-06-17 23:04:37,869 - INFO - Extracting stock info
+2024-06-17 23:04:37,869 - INFO - Extracting stock info
+2024-06-17 23:04:37,869 - INFO - Extracting stock info
+2024-06-17 23:04:37,885 - INFO - Normalizing data
+2024-06-17 23:04:37,885 - INFO - Normalizing data
+2024-06-17 23:04:37,885 - INFO - Normalizing data
+2024-06-17 23:04:37,885 - INFO - Extracting stock info
+2024-06-17 23:04:37,885 - INFO - Normalizing data
+2024-06-17 23:04:37,907 - INFO - Normalizing data
+2024-06-17 23:04:37,907 - INFO - Stock data extraction and normalization complete for BRSR6
+2024-06-17 23:04:37,919 - INFO - Stock data extraction and normalization complete for INTB3
+2024-06-17 23:04:37,938 - INFO - Stock data extraction and normalization complete for SOJA3
+2024-06-17 23:04:37,938 - INFO - Normalizing data
+2024-06-17 23:04:37,938 - INFO - Extracting stock info
+2024-06-17 23:04:37,938 - INFO - Stock data extraction and normalization complete for LIGT3
+2024-06-17 23:04:37,938 - INFO - Stock data extraction and normalization complete for ODPV3
+2024-06-17 23:04:37,938 - INFO - Starting stock scrapper for FLRY3
+2024-06-17 23:04:37,938 - INFO - Starting stock scrapper for KRSA3
+2024-06-17 23:04:37,938 - INFO - Starting stock scrapper for GGPS3
+2024-06-17 23:04:37,960 - INFO - Stock data extraction and normalization complete for ZAMP3
+2024-06-17 23:04:37,963 - INFO - Normalizing data
+2024-06-17 23:04:37,963 - INFO - Starting stock scrapper for SAPR4
+2024-06-17 23:04:37,963 - INFO - Starting stock scrapper for KEPL3
+2024-06-17 23:04:37,963 - INFO - Getting stock data for FLRY3
+2024-06-17 23:04:37,963 - INFO - Getting stock data for KRSA3
+2024-06-17 23:04:37,964 - INFO - Getting stock data for GGPS3
+2024-06-17 23:04:37,964 - INFO - Starting stock scrapper for BMOB3
+2024-06-17 23:04:37,970 - INFO - Stock data extraction and normalization complete for BPAN4
+2024-06-17 23:04:37,971 - INFO - Getting stock data for SAPR4
+2024-06-17 23:04:37,971 - INFO - Getting stock data for KEPL3
+2024-06-17 23:04:37,973 - INFO - Getting stock data for BMOB3
+2024-06-17 23:04:37,973 - INFO - Starting stock scrapper for IRBR3
+2024-06-17 23:04:37,973 - INFO - Getting stock data for IRBR3
+2024-06-17 23:04:38,038 - INFO - Extracting stock info
+2024-06-17 23:04:38,038 - INFO - Normalizing data
+2024-06-17 23:04:38,038 - INFO - Stock data extraction and normalization complete for AMBP3
+2024-06-17 23:04:38,038 - INFO - Starting stock scrapper for VULC3
+2024-06-17 23:04:38,038 - INFO - Getting stock data for VULC3
+2024-06-17 23:04:38,101 - INFO - Extracting stock info
+2024-06-17 23:04:38,116 - INFO - Normalizing data
+2024-06-17 23:04:38,154 - INFO - Extracting stock info
+2024-06-17 23:04:38,154 - INFO - Normalizing data
+2024-06-17 23:04:38,185 - INFO - Stock data extraction and normalization complete for SAPR4
+2024-06-17 23:04:38,185 - INFO - Extracting stock info
+2024-06-17 23:04:38,185 - INFO - Extracting stock info
+2024-06-17 23:04:38,185 - INFO - Stock data extraction and normalization complete for GGPS3
+2024-06-17 23:04:38,185 - INFO - Extracting stock info
+2024-06-17 23:04:38,185 - INFO - Starting stock scrapper for POSI3
+2024-06-17 23:04:38,201 - INFO - Extracting stock info
+2024-06-17 23:04:38,217 - INFO - Extracting stock info
+2024-06-17 23:04:38,217 - INFO - Normalizing data
+2024-06-17 23:04:38,232 - INFO - Normalizing data
+2024-06-17 23:04:38,232 - INFO - Starting stock scrapper for LAVV3
+2024-06-17 23:04:38,277 - INFO - Getting stock data for LAVV3
+2024-06-17 23:04:38,239 - INFO - Getting stock data for POSI3
+2024-06-17 23:04:38,254 - INFO - Extracting stock info
+2024-06-17 23:04:38,257 - INFO - Normalizing data
+2024-06-17 23:04:38,258 - INFO - Normalizing data
+2024-06-17 23:04:38,277 - INFO - Stock data extraction and normalization complete for FLRY3
+2024-06-17 23:04:38,232 - INFO - Normalizing data
+2024-06-17 23:04:38,277 - INFO - Stock data extraction and normalization complete for IRBR3
+2024-06-17 23:04:38,282 - INFO - Normalizing data
+2024-06-17 23:04:38,289 - INFO - Stock data extraction and normalization complete for BMOB3
+2024-06-17 23:04:38,294 - INFO - Stock data extraction and normalization complete for KRSA3
+2024-06-17 23:04:38,294 - INFO - Starting stock scrapper for GRND3
+2024-06-17 23:04:38,294 - INFO - Starting stock scrapper for JSLG3
+2024-06-17 23:04:38,294 - INFO - Starting stock scrapper for MEAL3
+2024-06-17 23:04:38,294 - INFO - Stock data extraction and normalization complete for VULC3
+2024-06-17 23:04:38,294 - INFO - Stock data extraction and normalization complete for KEPL3
+2024-06-17 23:04:38,294 - INFO - Starting stock scrapper for FIQE3
+2024-06-17 23:04:38,294 - INFO - Getting stock data for GRND3
+2024-06-17 23:04:38,294 - INFO - Getting stock data for JSLG3
+2024-06-17 23:04:38,294 - INFO - Getting stock data for MEAL3
+2024-06-17 23:04:38,294 - INFO - Starting stock scrapper for TTEN3
+2024-06-17 23:04:38,294 - INFO - Starting stock scrapper for BRIT3
+2024-06-17 23:04:38,310 - INFO - Getting stock data for BRIT3
+2024-06-17 23:04:38,310 - INFO - Getting stock data for TTEN3
+2024-06-17 23:04:38,294 - INFO - Getting stock data for FIQE3
+2024-06-17 23:04:38,416 - INFO - Extracting stock info
+2024-06-17 23:04:38,416 - INFO - Normalizing data
+2024-06-17 23:04:38,432 - INFO - Stock data extraction and normalization complete for LAVV3
+2024-06-17 23:04:38,432 - INFO - Starting stock scrapper for CSMG3
+2024-06-17 23:04:38,432 - INFO - Getting stock data for CSMG3
+2024-06-17 23:04:38,470 - INFO - Extracting stock info
+2024-06-17 23:04:38,470 - INFO - Normalizing data
+2024-06-17 23:04:38,491 - INFO - Extracting stock info
+2024-06-17 23:04:38,494 - INFO - Normalizing data
+2024-06-17 23:04:38,512 - INFO - Stock data extraction and normalization complete for MEAL3
+2024-06-17 23:04:38,512 - INFO - Starting stock scrapper for PORT3
+2024-06-17 23:04:38,513 - INFO - Getting stock data for PORT3
+2024-06-17 23:04:38,516 - INFO - Stock data extraction and normalization complete for POSI3
+2024-06-17 23:04:38,516 - INFO - Starting stock scrapper for SEER3
+2024-06-17 23:04:38,516 - INFO - Getting stock data for SEER3
+2024-06-17 23:04:38,529 - INFO - Extracting stock info
+2024-06-17 23:04:38,665 - INFO - Extracting stock info
+2024-06-17 23:04:38,677 - INFO - Extracting stock info
+2024-06-17 23:04:38,706 - INFO - Extracting stock info
+2024-06-17 23:04:38,716 - INFO - Normalizing data
+2024-06-17 23:04:38,744 - INFO - Extracting stock info
+2024-06-17 23:04:38,751 - INFO - Normalizing data
+2024-06-17 23:04:38,751 - INFO - Extracting stock info
+2024-06-17 23:04:38,758 - INFO - Normalizing data
+2024-06-17 23:04:38,764 - INFO - Normalizing data
+2024-06-17 23:04:38,775 - INFO - Normalizing data
+2024-06-17 23:04:38,780 - INFO - Stock data extraction and normalization complete for JSLG3
+2024-06-17 23:04:38,791 - INFO - Normalizing data
+2024-06-17 23:04:38,795 - INFO - Stock data extraction and normalization complete for GRND3
+2024-06-17 23:04:38,817 - INFO - Extracting stock info
+2024-06-17 23:04:38,841 - INFO - Stock data extraction and normalization complete for TTEN3
+2024-06-17 23:04:38,851 - INFO - Extracting stock info
+2024-06-17 23:04:38,858 - INFO - Stock data extraction and normalization complete for BRIT3
+2024-06-17 23:04:38,861 - INFO - Stock data extraction and normalization complete for CSMG3
+2024-06-17 23:04:38,861 - INFO - Starting stock scrapper for CAML3
+2024-06-17 23:04:38,865 - INFO - Starting stock scrapper for AGXY3
+2024-06-17 23:04:38,868 - INFO - Stock data extraction and normalization complete for FIQE3
+2024-06-17 23:04:38,869 - INFO - Normalizing data
+2024-06-17 23:04:38,869 - INFO - Starting stock scrapper for OPCT3
+2024-06-17 23:04:38,869 - INFO - Normalizing data
+2024-06-17 23:04:38,869 - INFO - Starting stock scrapper for ENJU3
+2024-06-17 23:04:38,869 - INFO - Starting stock scrapper for PLPL3
+2024-06-17 23:04:38,869 - INFO - Getting stock data for CAML3
+2024-06-17 23:04:38,869 - INFO - Getting stock data for AGXY3
+2024-06-17 23:04:38,869 - INFO - Starting stock scrapper for MDIA3
+2024-06-17 23:04:38,869 - INFO - Stock data extraction and normalization complete for SEER3
+2024-06-17 23:04:38,869 - INFO - Getting stock data for OPCT3
+2024-06-17 23:04:38,869 - INFO - Getting stock data for ENJU3
+2024-06-17 23:04:38,884 - INFO - Stock data extraction and normalization complete for PORT3
+2024-06-17 23:04:38,884 - INFO - Getting stock data for PLPL3
+2024-06-17 23:04:38,884 - INFO - Getting stock data for MDIA3
+2024-06-17 23:04:38,884 - INFO - Starting stock scrapper for PGMN3
+2024-06-17 23:04:38,884 - INFO - Starting stock scrapper for PNVL3
+2024-06-17 23:04:38,884 - INFO - Getting stock data for PGMN3
+2024-06-17 23:04:38,884 - INFO - Getting stock data for PNVL3
+2024-06-17 23:04:39,008 - INFO - Extracting stock info
+2024-06-17 23:04:39,008 - INFO - Normalizing data
+2024-06-17 23:04:39,047 - INFO - Stock data extraction and normalization complete for AGXY3
+2024-06-17 23:04:39,048 - INFO - Extracting stock info
+2024-06-17 23:04:39,061 - INFO - Starting stock scrapper for TUPY3
+2024-06-17 23:04:39,088 - INFO - Extracting stock info
+2024-06-17 23:04:39,092 - INFO - Normalizing data
+2024-06-17 23:04:39,093 - INFO - Extracting stock info
+2024-06-17 23:04:39,129 - INFO - Extracting stock info
+2024-06-17 23:04:39,147 - INFO - Getting stock data for TUPY3
+2024-06-17 23:04:39,164 - INFO - Extracting stock info
+2024-06-17 23:04:39,167 - INFO - Extracting stock info
+2024-06-17 23:04:39,167 - INFO - Normalizing data
+2024-06-17 23:04:39,167 - INFO - Extracting stock info
+2024-06-17 23:04:39,179 - INFO - Normalizing data
+2024-06-17 23:04:39,185 - INFO - Stock data extraction and normalization complete for CAML3
+2024-06-17 23:04:39,189 - INFO - Normalizing data
+2024-06-17 23:04:39,193 - INFO - Normalizing data
+2024-06-17 23:04:39,198 - INFO - Normalizing data
+2024-06-17 23:04:39,208 - INFO - Normalizing data
+2024-06-17 23:04:39,211 - INFO - Stock data extraction and normalization complete for PNVL3
+2024-06-17 23:04:39,217 - INFO - Starting stock scrapper for JALL3
+2024-06-17 23:04:39,220 - INFO - Stock data extraction and normalization complete for OPCT3
+2024-06-17 23:04:39,231 - INFO - Stock data extraction and normalization complete for PLPL3
+2024-06-17 23:04:39,235 - INFO - Stock data extraction and normalization complete for PGMN3
+2024-06-17 23:04:39,242 - INFO - Stock data extraction and normalization complete for ENJU3
+2024-06-17 23:04:39,246 - INFO - Starting stock scrapper for FESA4
+2024-06-17 23:04:39,250 - INFO - Stock data extraction and normalization complete for MDIA3
+2024-06-17 23:04:39,250 - INFO - Getting stock data for JALL3
+2024-06-17 23:04:39,250 - INFO - Starting stock scrapper for ITUB3
+2024-06-17 23:04:39,251 - INFO - Starting stock scrapper for CSED3
+2024-06-17 23:04:39,251 - INFO - Starting stock scrapper for ARML3
+2024-06-17 23:04:39,251 - INFO - Starting stock scrapper for RANI3
+2024-06-17 23:04:39,252 - INFO - Getting stock data for FESA4
+2024-06-17 23:04:39,252 - INFO - Starting stock scrapper for HBOR3
+2024-06-17 23:04:39,252 - INFO - Getting stock data for ITUB3
+2024-06-17 23:04:39,252 - INFO - Getting stock data for CSED3
+2024-06-17 23:04:39,253 - INFO - Getting stock data for ARML3
+2024-06-17 23:04:39,253 - INFO - Getting stock data for RANI3
+2024-06-17 23:04:39,254 - INFO - Getting stock data for HBOR3
+2024-06-17 23:04:39,350 - INFO - Extracting stock info
+2024-06-17 23:04:39,354 - INFO - Normalizing data
+2024-06-17 23:04:39,362 - INFO - Stock data extraction and normalization complete for TUPY3
+2024-06-17 23:04:39,362 - INFO - Starting stock scrapper for SHUL4
+2024-06-17 23:04:39,363 - INFO - Getting stock data for SHUL4
+2024-06-17 23:04:39,384 - INFO - Extracting stock info
+2024-06-17 23:04:39,416 - INFO - Normalizing data
+2024-06-17 23:04:39,442 - INFO - Stock data extraction and normalization complete for JALL3
+2024-06-17 23:04:39,444 - INFO - Starting stock scrapper for MDNE3
+2024-06-17 23:04:39,458 - INFO - Extracting stock info
+2024-06-17 23:04:39,469 - INFO - Extracting stock info
+2024-06-17 23:04:39,475 - INFO - Extracting stock info
+2024-06-17 23:04:39,476 - INFO - Extracting stock info
+2024-06-17 23:04:39,476 - INFO - Getting stock data for MDNE3
+2024-06-17 23:04:39,488 - INFO - Normalizing data
+2024-06-17 23:04:39,501 - INFO - Normalizing data
+2024-06-17 23:04:39,518 - INFO - Extracting stock info
+2024-06-17 23:04:39,530 - INFO - Extracting stock info
+2024-06-17 23:04:39,530 - INFO - Normalizing data
+2024-06-17 23:04:39,536 - INFO - Normalizing data
+2024-06-17 23:04:39,548 - INFO - Normalizing data
+2024-06-17 23:04:39,554 - INFO - Stock data extraction and normalization complete for ITUB3
+2024-06-17 23:04:39,572 - INFO - Normalizing data
+2024-06-17 23:04:39,572 - INFO - Stock data extraction and normalization complete for ARML3
+2024-06-17 23:04:39,585 - INFO - Starting stock scrapper for ORVR3
+2024-06-17 23:04:39,602 - INFO - Getting stock data for ORVR3
+2024-06-17 23:04:39,585 - INFO - Stock data extraction and normalization complete for HBOR3
+2024-06-17 23:04:39,590 - INFO - Stock data extraction and normalization complete for FESA4
+2024-06-17 23:04:39,602 - INFO - Starting stock scrapper for PTBL3
+2024-06-17 23:04:39,602 - INFO - Stock data extraction and normalization complete for CSED3
+2024-06-17 23:04:39,590 - INFO - Stock data extraction and normalization complete for RANI3
+2024-06-17 23:04:39,602 - INFO - Starting stock scrapper for WIZC3
+2024-06-17 23:04:39,596 - INFO - Starting stock scrapper for LEVE3
+2024-06-17 23:04:39,602 - INFO - Getting stock data for PTBL3
+2024-06-17 23:04:39,602 - INFO - Starting stock scrapper for LOGG3
+2024-06-17 23:04:39,602 - INFO - Starting stock scrapper for RCSL3
+2024-06-17 23:04:39,602 - INFO - Getting stock data for WIZC3
+2024-06-17 23:04:39,602 - INFO - Getting stock data for LEVE3
+2024-06-17 23:04:39,602 - INFO - Getting stock data for LOGG3
+2024-06-17 23:04:39,602 - INFO - Getting stock data for RCSL3
+2024-06-17 23:04:39,645 - INFO - Extracting stock info
+2024-06-17 23:04:39,645 - INFO - Normalizing data
+2024-06-17 23:04:39,651 - INFO - Stock data extraction and normalization complete for SHUL4
+2024-06-17 23:04:39,656 - INFO - Starting stock scrapper for ABCB4
+2024-06-17 23:04:39,656 - INFO - Getting stock data for ABCB4
+2024-06-17 23:04:39,693 - INFO - Extracting stock info
+2024-06-17 23:04:39,694 - INFO - Normalizing data
+2024-06-17 23:04:39,706 - INFO - Stock data extraction and normalization complete for MDNE3
+2024-06-17 23:04:39,706 - INFO - Starting stock scrapper for VLID3
+2024-06-17 23:04:39,706 - INFO - Getting stock data for VLID3
+2024-06-17 23:04:39,760 - INFO - Extracting stock info
+2024-06-17 23:04:39,786 - INFO - Normalizing data
+2024-06-17 23:04:39,793 - INFO - Stock data extraction and normalization complete for LOGG3
+2024-06-17 23:04:39,881 - INFO - Starting stock scrapper for HBRE3
+2024-06-17 23:04:39,907 - INFO - Extracting stock info
+2024-06-17 23:04:39,907 - INFO - Extracting stock info
+2024-06-17 23:04:39,913 - INFO - Getting stock data for HBRE3
+2024-06-17 23:04:39,913 - INFO - Extracting stock info
+2024-06-17 23:04:39,913 - INFO - Extracting stock info
+2024-06-17 23:04:39,919 - INFO - Normalizing data
+2024-06-17 23:04:39,931 - INFO - Normalizing data
+2024-06-17 23:04:39,949 - INFO - Extracting stock info
+2024-06-17 23:04:39,973 - INFO - Normalizing data
+2024-06-17 23:04:39,979 - INFO - Extracting stock info
+2024-06-17 23:04:39,979 - INFO - Extracting stock info
+2024-06-17 23:04:39,990 - INFO - Normalizing data
+2024-06-17 23:04:39,998 - INFO - Stock data extraction and normalization complete for PTBL3
+2024-06-17 23:04:39,998 - INFO - Stock data extraction and normalization complete for RCSL3
+2024-06-17 23:04:40,008 - INFO - Normalizing data
+2024-06-17 23:04:40,010 - INFO - Stock data extraction and normalization complete for WIZC3
+2024-06-17 23:04:40,015 - INFO - Normalizing data
+2024-06-17 23:04:40,016 - INFO - Normalizing data
+2024-06-17 23:04:40,022 - INFO - Starting stock scrapper for RCSL4
+2024-06-17 23:04:40,026 - INFO - Stock data extraction and normalization complete for ORVR3
+2024-06-17 23:04:40,027 - INFO - Starting stock scrapper for KLBN3
+2024-06-17 23:04:40,033 - INFO - Starting stock scrapper for TAEE4
+2024-06-17 23:04:40,034 - INFO - Stock data extraction and normalization complete for ABCB4
+2024-06-17 23:04:40,042 - INFO - Stock data extraction and normalization complete for VLID3
+2024-06-17 23:04:40,046 - INFO - Getting stock data for RCSL4
+2024-06-17 23:04:40,046 - INFO - Stock data extraction and normalization complete for LEVE3
+2024-06-17 23:04:40,046 - INFO - Starting stock scrapper for AZEV3
+2024-06-17 23:04:40,046 - INFO - Getting stock data for KLBN3
+2024-06-17 23:04:40,046 - INFO - Getting stock data for TAEE4
+2024-06-17 23:04:40,046 - INFO - Starting stock scrapper for MBLY3
+2024-06-17 23:04:40,046 - INFO - Starting stock scrapper for PRNR3
+2024-06-17 23:04:40,051 - INFO - Starting stock scrapper for BMGB4
+2024-06-17 23:04:40,051 - INFO - Getting stock data for AZEV3
+2024-06-17 23:04:40,051 - INFO - Getting stock data for MBLY3
+2024-06-17 23:04:40,051 - INFO - Getting stock data for PRNR3
+2024-06-17 23:04:40,051 - INFO - Getting stock data for BMGB4
+2024-06-17 23:04:40,119 - INFO - Extracting stock info
+2024-06-17 23:04:40,124 - INFO - Normalizing data
+2024-06-17 23:04:40,130 - INFO - Stock data extraction and normalization complete for HBRE3
+2024-06-17 23:04:40,130 - INFO - Starting stock scrapper for TASA4
+2024-06-17 23:04:40,130 - INFO - Getting stock data for TASA4
+2024-06-17 23:04:40,210 - INFO - Extracting stock info
+2024-06-17 23:04:40,215 - INFO - Normalizing data
+2024-06-17 23:04:40,221 - INFO - Extracting stock info
+2024-06-17 23:04:40,221 - INFO - Stock data extraction and normalization complete for PRNR3
+2024-06-17 23:04:40,227 - INFO - Normalizing data
+2024-06-17 23:04:40,251 - INFO - Starting stock scrapper for FRAS3
+2024-06-17 23:04:40,300 - INFO - Extracting stock info
+2024-06-17 23:04:40,300 - INFO - Extracting stock info
+2024-06-17 23:04:40,306 - INFO - Extracting stock info
+2024-06-17 23:04:40,312 - INFO - Extracting stock info
+2024-06-17 23:04:40,325 - INFO - Extracting stock info
+2024-06-17 23:04:40,342 - INFO - Extracting stock info
+2024-06-17 23:04:40,342 - INFO - Stock data extraction and normalization complete for BMGB4
+2024-06-17 23:04:40,342 - INFO - Getting stock data for FRAS3
+2024-06-17 23:04:40,348 - INFO - Normalizing data
+2024-06-17 23:04:40,348 - INFO - Normalizing data
+2024-06-17 23:04:40,354 - INFO - Normalizing data
+2024-06-17 23:04:40,354 - INFO - Normalizing data
+2024-06-17 23:04:40,360 - INFO - Normalizing data
+2024-06-17 23:04:40,360 - INFO - Normalizing data
+2024-06-17 23:04:40,360 - INFO - Starting stock scrapper for TRIS3
+2024-06-17 23:04:40,384 - INFO - Stock data extraction and normalization complete for RCSL4
+2024-06-17 23:04:40,384 - INFO - Stock data extraction and normalization complete for AZEV3
+2024-06-17 23:04:40,390 - INFO - Stock data extraction and normalization complete for KLBN3
+2024-06-17 23:04:40,390 - INFO - Stock data extraction and normalization complete for MBLY3
+2024-06-17 23:04:40,409 - INFO - Stock data extraction and normalization complete for TASA4
+2024-06-17 23:04:40,409 - INFO - Getting stock data for TRIS3
+2024-06-17 23:04:40,409 - INFO - Starting stock scrapper for TRAD3
+2024-06-17 23:04:40,409 - INFO - Stock data extraction and normalization complete for TAEE4
+2024-06-17 23:04:40,409 - INFO - Starting stock scrapper for ALPK3
+2024-06-17 23:04:40,409 - INFO - Starting stock scrapper for TECN3
+2024-06-17 23:04:40,409 - INFO - Starting stock scrapper for DESK3
+2024-06-17 23:04:40,409 - INFO - Starting stock scrapper for SAPR3
+2024-06-17 23:04:40,409 - INFO - Getting stock data for TRAD3
+2024-06-17 23:04:40,409 - INFO - Starting stock scrapper for TCSA3
+2024-06-17 23:04:40,409 - INFO - Getting stock data for ALPK3
+2024-06-17 23:04:40,409 - INFO - Getting stock data for TECN3
+2024-06-17 23:04:40,409 - INFO - Getting stock data for DESK3
+2024-06-17 23:04:40,409 - INFO - Getting stock data for SAPR3
+2024-06-17 23:04:40,409 - INFO - Getting stock data for TCSA3
+2024-06-17 23:04:40,524 - INFO - Extracting stock info
+2024-06-17 23:04:40,530 - INFO - Normalizing data
+2024-06-17 23:04:40,536 - INFO - Stock data extraction and normalization complete for FRAS3
+2024-06-17 23:04:40,536 - INFO - Starting stock scrapper for PFRM3
+2024-06-17 23:04:40,536 - INFO - Getting stock data for PFRM3
+2024-06-17 23:04:40,589 - INFO - Extracting stock info
+2024-06-17 23:04:40,617 - INFO - Normalizing data
+2024-06-17 23:04:40,635 - INFO - Extracting stock info
+2024-06-17 23:04:40,656 - INFO - Stock data extraction and normalization complete for TRAD3
+2024-06-17 23:04:40,720 - INFO - Starting stock scrapper for LAND3
+2024-06-17 23:04:40,720 - INFO - Getting stock data for LAND3
+2024-06-17 23:04:40,663 - INFO - Normalizing data
+2024-06-17 23:04:40,688 - INFO - Extracting stock info
+2024-06-17 23:04:40,705 - INFO - Extracting stock info
+2024-06-17 23:04:40,673 - INFO - Extracting stock info
+2024-06-17 23:04:40,686 - INFO - Extracting stock info
+2024-06-17 23:04:40,728 - INFO - Extracting stock info
+2024-06-17 23:04:40,737 - INFO - Normalizing data
+2024-06-17 23:04:40,742 - INFO - Normalizing data
+2024-06-17 23:04:40,747 - INFO - Normalizing data
+2024-06-17 23:04:40,750 - INFO - Stock data extraction and normalization complete for DESK3
+2024-06-17 23:04:40,756 - INFO - Normalizing data
+2024-06-17 23:04:40,761 - INFO - Normalizing data
+2024-06-17 23:04:40,782 - INFO - Stock data extraction and normalization complete for SAPR3
+2024-06-17 23:04:40,788 - INFO - Stock data extraction and normalization complete for TRIS3
+2024-06-17 23:04:40,817 - INFO - Starting stock scrapper for ROMI3
+2024-06-17 23:04:40,817 - INFO - Getting stock data for ROMI3
+2024-06-17 23:04:40,798 - INFO - Stock data extraction and normalization complete for TCSA3
+2024-06-17 23:04:40,816 - INFO - Starting stock scrapper for AGRO3
+2024-06-17 23:04:40,826 - INFO - Getting stock data for AGRO3
+2024-06-17 23:04:40,816 - INFO - Stock data extraction and normalization complete for TECN3
+2024-06-17 23:04:40,852 - INFO - Starting stock scrapper for AERI3
+2024-06-17 23:04:40,825 - INFO - Starting stock scrapper for POMO3
+2024-06-17 23:04:40,853 - INFO - Getting stock data for POMO3
+2024-06-17 23:04:40,849 - INFO - Extracting stock info
+2024-06-17 23:04:40,824 - INFO - Stock data extraction and normalization complete for ALPK3
+2024-06-17 23:04:40,857 - INFO - Starting stock scrapper for MELK3
+2024-06-17 23:04:40,852 - INFO - Getting stock data for AERI3
+2024-06-17 23:04:40,856 - INFO - Normalizing data
+2024-06-17 23:04:40,798 - INFO - Starting stock scrapper for USIM3
+2024-06-17 23:04:40,857 - INFO - Getting stock data for MELK3
+2024-06-17 23:04:40,866 - INFO - Stock data extraction and normalization complete for PFRM3
+2024-06-17 23:04:40,882 - INFO - Getting stock data for USIM3
+2024-06-17 23:04:40,888 - INFO - Extracting stock info
+2024-06-17 23:04:40,888 - INFO - Starting stock scrapper for TAEE3
+2024-06-17 23:04:40,894 - INFO - Normalizing data
+2024-06-17 23:04:40,894 - INFO - Getting stock data for TAEE3
+2024-06-17 23:04:40,901 - INFO - Stock data extraction and normalization complete for LAND3
+2024-06-17 23:04:40,901 - INFO - Starting stock scrapper for SYNE3
+2024-06-17 23:04:40,901 - INFO - Getting stock data for SYNE3
+2024-06-17 23:04:40,991 - INFO - Extracting stock info
+2024-06-17 23:04:40,996 - INFO - Normalizing data
+2024-06-17 23:04:41,004 - INFO - Stock data extraction and normalization complete for ROMI3
+2024-06-17 23:04:41,004 - INFO - Starting stock scrapper for BIOM3
+2024-06-17 23:04:41,004 - INFO - Getting stock data for BIOM3
+2024-06-17 23:04:41,113 - INFO - Extracting stock info
+2024-06-17 23:04:41,116 - INFO - Normalizing data
+2024-06-17 23:04:41,154 - INFO - Stock data extraction and normalization complete for AGRO3
+2024-06-17 23:04:41,155 - INFO - Extracting stock info
+2024-06-17 23:04:41,159 - INFO - Starting stock scrapper for MATD3
+2024-06-17 23:04:41,172 - INFO - Extracting stock info
+2024-06-17 23:04:41,179 - INFO - Extracting stock info
+2024-06-17 23:04:41,183 - INFO - Normalizing data
+2024-06-17 23:04:41,217 - INFO - Extracting stock info
+2024-06-17 23:04:41,217 - INFO - Extracting stock info
+2024-06-17 23:04:41,217 - INFO - Getting stock data for MATD3
+2024-06-17 23:04:41,221 - INFO - Normalizing data
+2024-06-17 23:04:41,224 - INFO - Normalizing data
+2024-06-17 23:04:41,232 - INFO - Normalizing data
+2024-06-17 23:04:41,235 - INFO - Stock data extraction and normalization complete for POMO3
+2024-06-17 23:04:41,237 - INFO - Normalizing data
+2024-06-17 23:04:41,243 - INFO - Stock data extraction and normalization complete for SYNE3
+2024-06-17 23:04:41,249 - INFO - Stock data extraction and normalization complete for AERI3
+2024-06-17 23:04:41,265 - INFO - Stock data extraction and normalization complete for MELK3
+2024-06-17 23:04:41,265 - INFO - Starting stock scrapper for SHOW3
+2024-06-17 23:04:41,272 - INFO - Extracting stock info
+2024-06-17 23:04:41,278 - INFO - Stock data extraction and normalization complete for TAEE3
+2024-06-17 23:04:41,279 - INFO - Starting stock scrapper for CMIG3
+2024-06-17 23:04:41,279 - INFO - Starting stock scrapper for ITSA3
+2024-06-17 23:04:41,280 - INFO - Starting stock scrapper for BLAU3
+2024-06-17 23:04:41,281 - INFO - Getting stock data for BLAU3
+2024-06-17 23:04:41,281 - INFO - Normalizing data
+2024-06-17 23:04:41,281 - INFO - Starting stock scrapper for VIVR3
+2024-06-17 23:04:41,281 - INFO - Getting stock data for CMIG3
+2024-06-17 23:04:41,281 - INFO - Getting stock data for ITSA3
+2024-06-17 23:04:41,280 - INFO - Getting stock data for SHOW3
+2024-06-17 23:04:41,281 - INFO - Stock data extraction and normalization complete for USIM3
+2024-06-17 23:04:41,281 - INFO - Getting stock data for VIVR3
+2024-06-17 23:04:41,281 - INFO - Starting stock scrapper for ESPA3
+2024-06-17 23:04:41,281 - INFO - Getting stock data for ESPA3
+2024-06-17 23:04:41,329 - INFO - Extracting stock info
+2024-06-17 23:04:41,329 - INFO - Normalizing data
+2024-06-17 23:04:41,329 - INFO - Stock data extraction and normalization complete for BIOM3
+2024-06-17 23:04:41,329 - INFO - Starting stock scrapper for UNIP6
+2024-06-17 23:04:41,329 - INFO - Getting stock data for UNIP6
+2024-06-17 23:04:41,398 - INFO - Extracting stock info
+2024-06-17 23:04:41,398 - INFO - Normalizing data
+2024-06-17 23:04:41,398 - INFO - Stock data extraction and normalization complete for MATD3
+2024-06-17 23:04:41,398 - INFO - Starting stock scrapper for LUPA3
+2024-06-17 23:04:41,398 - INFO - Getting stock data for LUPA3
+2024-06-17 23:04:41,430 - INFO - Extracting stock info
+2024-06-17 23:04:41,430 - INFO - Normalizing data
+2024-06-17 23:04:41,430 - INFO - Stock data extraction and normalization complete for BLAU3
+2024-06-17 23:04:41,430 - INFO - Starting stock scrapper for TGMA3
+2024-06-17 23:04:41,430 - INFO - Getting stock data for TGMA3
+2024-06-17 23:04:41,492 - INFO - Extracting stock info
+2024-06-17 23:04:41,496 - INFO - Normalizing data
+2024-06-17 23:04:41,496 - INFO - Extracting stock info
+2024-06-17 23:04:41,497 - INFO - Extracting stock info
+2024-06-17 23:04:41,502 - INFO - Stock data extraction and normalization complete for ITSA3
+2024-06-17 23:04:41,505 - INFO - Extracting stock info
+2024-06-17 23:04:41,505 - INFO - Normalizing data
+2024-06-17 23:04:41,521 - INFO - Extracting stock info
+2024-06-17 23:04:41,536 - INFO - Normalizing data
+2024-06-17 23:04:41,552 - INFO - Starting stock scrapper for SEQL3
+2024-06-17 23:04:41,554 - INFO - Extracting stock info
+2024-06-17 23:04:41,563 - INFO - Normalizing data
+2024-06-17 23:04:41,572 - INFO - Normalizing data
+2024-06-17 23:04:41,572 - INFO - Stock data extraction and normalization complete for VIVR3
+2024-06-17 23:04:41,578 - INFO - Getting stock data for SEQL3
+2024-06-17 23:04:41,578 - INFO - Normalizing data
+2024-06-17 23:04:41,593 - INFO - Stock data extraction and normalization complete for ESPA3
+2024-06-17 23:04:41,597 - INFO - Stock data extraction and normalization complete for CMIG3
+2024-06-17 23:04:41,598 - INFO - Starting stock scrapper for ETER3
+2024-06-17 23:04:41,602 - INFO - Stock data extraction and normalization complete for SHOW3
+2024-06-17 23:04:41,627 - INFO - Starting stock scrapper for EUCA4
+2024-06-17 23:04:41,633 - INFO - Extracting stock info
+2024-06-17 23:04:41,635 - INFO - Stock data extraction and normalization complete for UNIP6
+2024-06-17 23:04:41,635 - INFO - Starting stock scrapper for ALLD3
+2024-06-17 23:04:41,648 - INFO - Getting stock data for ETER3
+2024-06-17 23:04:41,656 - INFO - Extracting stock info
+2024-06-17 23:04:41,656 - INFO - Starting stock scrapper for GGBR3
+2024-06-17 23:04:41,656 - INFO - Getting stock data for EUCA4
+2024-06-17 23:04:41,656 - INFO - Normalizing data
+2024-06-17 23:04:41,656 - INFO - Starting stock scrapper for RSID3
+2024-06-17 23:04:41,656 - INFO - Getting stock data for ALLD3
+2024-06-17 23:04:41,656 - INFO - Normalizing data
+2024-06-17 23:04:41,656 - INFO - Getting stock data for GGBR3
+2024-06-17 23:04:41,675 - INFO - Stock data extraction and normalization complete for LUPA3
+2024-06-17 23:04:41,675 - INFO - Getting stock data for RSID3
+2024-06-17 23:04:41,688 - INFO - Stock data extraction and normalization complete for TGMA3
+2024-06-17 23:04:41,688 - INFO - Starting stock scrapper for TFCO4
+2024-06-17 23:04:41,689 - INFO - Starting stock scrapper for DMVF3
+2024-06-17 23:04:41,690 - INFO - Getting stock data for TFCO4
+2024-06-17 23:04:41,690 - INFO - Getting stock data for DMVF3
+2024-06-17 23:04:41,787 - INFO - Extracting stock info
+2024-06-17 23:04:41,787 - INFO - Normalizing data
+2024-06-17 23:04:41,787 - INFO - Stock data extraction and normalization complete for SEQL3
+2024-06-17 23:04:41,787 - INFO - Starting stock scrapper for PINE4
+2024-06-17 23:04:41,787 - INFO - Getting stock data for PINE4
+2024-06-17 23:04:41,799 - INFO - Extracting stock info
+2024-06-17 23:04:41,815 - INFO - Normalizing data
+2024-06-17 23:04:41,815 - INFO - Stock data extraction and normalization complete for ETER3
+2024-06-17 23:04:41,815 - INFO - Starting stock scrapper for SANB4
+2024-06-17 23:04:41,815 - INFO - Getting stock data for SANB4
+2024-06-17 23:04:41,830 - INFO - Extracting stock info
+2024-06-17 23:04:41,862 - INFO - Extracting stock info
+2024-06-17 23:04:41,862 - INFO - Normalizing data
+2024-06-17 23:04:41,877 - INFO - Normalizing data
+2024-06-17 23:04:41,887 - INFO - Extracting stock info
+2024-06-17 23:04:41,899 - INFO - Stock data extraction and normalization complete for TFCO4
+2024-06-17 23:04:41,899 - INFO - Stock data extraction and normalization complete for EUCA4
+2024-06-17 23:04:41,899 - INFO - Extracting stock info
+2024-06-17 23:04:41,915 - INFO - Normalizing data
+2024-06-17 23:04:41,930 - INFO - Extracting stock info
+2024-06-17 23:04:41,930 - INFO - Starting stock scrapper for AALR3
+2024-06-17 23:04:41,930 - INFO - Extracting stock info
+2024-06-17 23:04:41,930 - INFO - Starting stock scrapper for LPSB3
+2024-06-17 23:04:41,930 - INFO - Normalizing data
+2024-06-17 23:04:41,946 - INFO - Normalizing data
+2024-06-17 23:04:41,946 - INFO - Stock data extraction and normalization complete for RSID3
+2024-06-17 23:04:41,946 - INFO - Getting stock data for AALR3
+2024-06-17 23:04:41,946 - INFO - Normalizing data
+2024-06-17 23:04:41,946 - INFO - Getting stock data for LPSB3
+2024-06-17 23:04:41,962 - INFO - Stock data extraction and normalization complete for GGBR3
+2024-06-17 23:04:41,962 - INFO - Stock data extraction and normalization complete for DMVF3
+2024-06-17 23:04:41,962 - INFO - Starting stock scrapper for AVLL3
+2024-06-17 23:04:41,962 - INFO - Stock data extraction and normalization complete for ALLD3
+2024-06-17 23:04:41,962 - INFO - Starting stock scrapper for CSUD3
+2024-06-17 23:04:41,962 - INFO - Starting stock scrapper for BRAP3
+2024-06-17 23:04:41,962 - INFO - Getting stock data for AVLL3
+2024-06-17 23:04:41,962 - INFO - Starting stock scrapper for ELMD3
+2024-06-17 23:04:41,962 - INFO - Getting stock data for CSUD3
+2024-06-17 23:04:41,977 - INFO - Getting stock data for BRAP3
+2024-06-17 23:04:41,977 - INFO - Getting stock data for ELMD3
+2024-06-17 23:04:41,999 - INFO - Extracting stock info
+2024-06-17 23:04:41,999 - INFO - Normalizing data
+2024-06-17 23:04:42,015 - INFO - Stock data extraction and normalization complete for SANB4
+2024-06-17 23:04:42,015 - INFO - Starting stock scrapper for RAPT3
+2024-06-17 23:04:42,015 - INFO - Getting stock data for RAPT3
+2024-06-17 23:04:42,077 - INFO - Extracting stock info
+2024-06-17 23:04:42,077 - INFO - Normalizing data
+2024-06-17 23:04:42,098 - INFO - Stock data extraction and normalization complete for PINE4
+2024-06-17 23:04:42,098 - INFO - Starting stock scrapper for RNEW4
+2024-06-17 23:04:42,099 - INFO - Getting stock data for RNEW4
+2024-06-17 23:04:42,121 - INFO - Extracting stock info
+2024-06-17 23:04:42,121 - INFO - Normalizing data
+2024-06-17 23:04:42,137 - INFO - Stock data extraction and normalization complete for ELMD3
+2024-06-17 23:04:42,137 - INFO - Starting stock scrapper for OIBR4
+2024-06-17 23:04:42,137 - INFO - Getting stock data for OIBR4
+2024-06-17 23:04:42,152 - INFO - Extracting stock info
+2024-06-17 23:04:42,152 - INFO - Normalizing data
+2024-06-17 23:04:42,168 - INFO - Stock data extraction and normalization complete for AVLL3
+2024-06-17 23:04:42,168 - INFO - Starting stock scrapper for SANB3
+2024-06-17 23:04:42,168 - INFO - Getting stock data for SANB3
+2024-06-17 23:04:42,199 - INFO - Extracting stock info
+2024-06-17 23:04:42,230 - INFO - Extracting stock info
+2024-06-17 23:04:42,230 - INFO - Extracting stock info
+2024-06-17 23:04:42,230 - INFO - Normalizing data
+2024-06-17 23:04:42,230 - INFO - Extracting stock info
+2024-06-17 23:04:42,246 - INFO - Normalizing data
+2024-06-17 23:04:42,246 - INFO - Extracting stock info
+2024-06-17 23:04:42,246 - INFO - Normalizing data
+2024-06-17 23:04:42,261 - INFO - Stock data extraction and normalization complete for LPSB3
+2024-06-17 23:04:42,261 - INFO - Normalizing data
+2024-06-17 23:04:42,277 - INFO - Stock data extraction and normalization complete for BRAP3
+2024-06-17 23:04:42,277 - INFO - Normalizing data
+2024-06-17 23:04:42,277 - INFO - Extracting stock info
+2024-06-17 23:04:42,293 - INFO - Starting stock scrapper for LOGN3
+2024-06-17 23:04:42,293 - INFO - Stock data extraction and normalization complete for CSUD3
+2024-06-17 23:04:42,299 - INFO - Stock data extraction and normalization complete for AALR3
+2024-06-17 23:04:42,299 - INFO - Starting stock scrapper for PDTC3
+2024-06-17 23:04:42,299 - INFO - Stock data extraction and normalization complete for RNEW4
+2024-06-17 23:04:42,299 - INFO - Normalizing data
+2024-06-17 23:04:42,299 - INFO - Getting stock data for LOGN3
+2024-06-17 23:04:42,299 - INFO - Starting stock scrapper for GOAU3
+2024-06-17 23:04:42,299 - INFO - Starting stock scrapper for SGPS3
+2024-06-17 23:04:42,299 - INFO - Getting stock data for PDTC3
+2024-06-17 23:04:42,299 - INFO - Starting stock scrapper for UCAS3
+2024-06-17 23:04:42,315 - INFO - Stock data extraction and normalization complete for RAPT3
+2024-06-17 23:04:42,315 - INFO - Getting stock data for GOAU3
+2024-06-17 23:04:42,315 - INFO - Getting stock data for SGPS3
+2024-06-17 23:04:42,315 - INFO - Getting stock data for UCAS3
+2024-06-17 23:04:42,315 - INFO - Starting stock scrapper for RPMG3
+2024-06-17 23:04:42,315 - INFO - Getting stock data for RPMG3
+2024-06-17 23:04:42,331 - INFO - Extracting stock info
+2024-06-17 23:04:42,331 - INFO - Normalizing data
+2024-06-17 23:04:42,346 - INFO - Stock data extraction and normalization complete for OIBR4
+2024-06-17 23:04:42,346 - INFO - Starting stock scrapper for INEP3
+2024-06-17 23:04:42,346 - INFO - Getting stock data for INEP3
+2024-06-17 23:04:42,362 - INFO - Extracting stock info
+2024-06-17 23:04:42,377 - INFO - Normalizing data
+2024-06-17 23:04:42,377 - INFO - Stock data extraction and normalization complete for SANB3
+2024-06-17 23:04:42,377 - INFO - Starting stock scrapper for TPIS3
+2024-06-17 23:04:42,377 - INFO - Getting stock data for TPIS3
+2024-06-17 23:04:42,462 - INFO - Extracting stock info
+2024-06-17 23:04:42,478 - INFO - Normalizing data
+2024-06-17 23:04:42,493 - INFO - Stock data extraction and normalization complete for GOAU3
+2024-06-17 23:04:42,493 - INFO - Starting stock scrapper for CAMB3
+2024-06-17 23:04:42,493 - INFO - Getting stock data for CAMB3
+2024-06-17 23:04:42,516 - INFO - Extracting stock info
+2024-06-17 23:04:42,516 - INFO - Extracting stock info
+2024-06-17 23:04:42,516 - INFO - Extracting stock info
+2024-06-17 23:04:42,531 - INFO - Extracting stock info
+2024-06-17 23:04:42,547 - INFO - Extracting stock info
+2024-06-17 23:04:42,547 - INFO - Normalizing data
+2024-06-17 23:04:42,547 - INFO - Normalizing data
+2024-06-17 23:04:42,563 - INFO - Normalizing data
+2024-06-17 23:04:42,563 - INFO - Normalizing data
+2024-06-17 23:04:42,578 - INFO - Extracting stock info
+2024-06-17 23:04:42,578 - INFO - Normalizing data
+2024-06-17 23:04:42,578 - INFO - Extracting stock info
+2024-06-17 23:04:42,594 - INFO - Stock data extraction and normalization complete for LOGN3
+2024-06-17 23:04:42,600 - INFO - Stock data extraction and normalization complete for SGPS3
+2024-06-17 23:04:42,600 - INFO - Stock data extraction and normalization complete for PDTC3
+2024-06-17 23:04:42,600 - INFO - Stock data extraction and normalization complete for RPMG3
+2024-06-17 23:04:42,616 - INFO - Normalizing data
+2024-06-17 23:04:42,616 - INFO - Stock data extraction and normalization complete for INEP3
+2024-06-17 23:04:42,616 - INFO - Normalizing data
+2024-06-17 23:04:42,616 - INFO - Starting stock scrapper for CTNM4
+2024-06-17 23:04:42,616 - INFO - Starting stock scrapper for MNPR3
+2024-06-17 23:04:42,616 - INFO - Starting stock scrapper for PMAM3
+2024-06-17 23:04:42,616 - INFO - Starting stock scrapper for DEXP3
+2024-06-17 23:04:42,632 - INFO - Stock data extraction and normalization complete for UCAS3
+2024-06-17 23:04:42,632 - INFO - Starting stock scrapper for EPAR3
+2024-06-17 23:04:42,632 - INFO - Stock data extraction and normalization complete for TPIS3
+2024-06-17 23:04:42,632 - INFO - Getting stock data for CTNM4
+2024-06-17 23:04:42,632 - INFO - Getting stock data for MNPR3
+2024-06-17 23:04:42,632 - INFO - Getting stock data for PMAM3
+2024-06-17 23:04:42,632 - INFO - Getting stock data for DEXP3
+2024-06-17 23:04:42,632 - INFO - Starting stock scrapper for INEP4
+2024-06-17 23:04:42,632 - INFO - Getting stock data for EPAR3
+2024-06-17 23:04:42,632 - INFO - Starting stock scrapper for JFEN3
+2024-06-17 23:04:42,632 - INFO - Getting stock data for INEP4
+2024-06-17 23:04:42,632 - INFO - Getting stock data for JFEN3
+2024-06-17 23:04:42,716 - INFO - Extracting stock info
+2024-06-17 23:04:42,716 - INFO - Normalizing data
+2024-06-17 23:04:42,716 - INFO - Stock data extraction and normalization complete for CAMB3
+2024-06-17 23:04:42,716 - INFO - Starting stock scrapper for ENGI4
+2024-06-17 23:04:42,716 - INFO - Getting stock data for ENGI4
+2024-06-17 23:04:42,778 - INFO - Extracting stock info
+2024-06-17 23:04:42,794 - INFO - Normalizing data
+2024-06-17 23:04:42,801 - INFO - Stock data extraction and normalization complete for MNPR3
+2024-06-17 23:04:42,801 - INFO - Starting stock scrapper for BEES3
+2024-06-17 23:04:42,801 - INFO - Getting stock data for BEES3
+2024-06-17 23:04:42,816 - INFO - Extracting stock info
+2024-06-17 23:04:42,816 - INFO - Normalizing data
+2024-06-17 23:04:42,816 - INFO - Extracting stock info
+2024-06-17 23:04:42,847 - INFO - Normalizing data
+2024-06-17 23:04:42,863 - INFO - Stock data extraction and normalization complete for JFEN3
+2024-06-17 23:04:42,863 - INFO - Extracting stock info
+2024-06-17 23:04:42,863 - INFO - Stock data extraction and normalization complete for PMAM3
+2024-06-17 23:04:42,879 - INFO - Starting stock scrapper for WEST3
+2024-06-17 23:04:42,879 - INFO - Extracting stock info
+2024-06-17 23:04:42,954 - INFO - Extracting stock info
+2024-06-17 23:04:42,957 - INFO - Normalizing data
+2024-06-17 23:04:42,959 - INFO - Starting stock scrapper for SCAR3
+2024-06-17 23:04:42,959 - INFO - Extracting stock info
+2024-06-17 23:04:42,981 - INFO - Extracting stock info
+2024-06-17 23:04:42,981 - INFO - Getting stock data for WEST3
+2024-06-17 23:04:42,984 - INFO - Normalizing data
+2024-06-17 23:04:42,985 - INFO - Normalizing data
+2024-06-17 23:04:42,985 - INFO - Stock data extraction and normalization complete for CTNM4
+2024-06-17 23:04:42,985 - INFO - Getting stock data for SCAR3
+2024-06-17 23:04:42,985 - INFO - Normalizing data
+2024-06-17 23:04:43,001 - INFO - Normalizing data
+2024-06-17 23:04:43,001 - INFO - Stock data extraction and normalization complete for DEXP3
+2024-06-17 23:04:43,014 - INFO - Starting stock scrapper for IGTI3
+2024-06-17 23:04:43,016 - INFO - Stock data extraction and normalization complete for INEP4
+2024-06-17 23:04:43,020 - INFO - Stock data extraction and normalization complete for EPAR3
+2024-06-17 23:04:43,020 - INFO - Stock data extraction and normalization complete for ENGI4
+2024-06-17 23:04:43,020 - INFO - Starting stock scrapper for IGTI3
+2024-06-17 23:04:43,020 - INFO - Getting stock data for IGTI3
+2024-06-17 23:04:43,020 - INFO - Starting stock scrapper for VSTE3
+2024-06-17 23:04:43,020 - INFO - Starting stock scrapper for EALT4
+2024-06-17 23:04:43,020 - INFO - Starting stock scrapper for NINJ3
+2024-06-17 23:04:43,020 - INFO - Getting stock data for IGTI3
+2024-06-17 23:04:43,020 - INFO - Getting stock data for VSTE3
+2024-06-17 23:04:43,020 - INFO - Getting stock data for EALT4
+2024-06-17 23:04:43,020 - INFO - Getting stock data for NINJ3
+2024-06-17 23:04:43,067 - INFO - Extracting stock info
+2024-06-17 23:04:43,067 - INFO - Normalizing data
+2024-06-17 23:04:43,083 - INFO - Stock data extraction and normalization complete for BEES3
+2024-06-17 23:04:43,083 - INFO - Starting stock scrapper for TASA3
+2024-06-17 23:04:43,083 - INFO - Getting stock data for TASA3
+2024-06-17 23:04:43,163 - INFO - Extracting stock info
+2024-06-17 23:04:43,163 - INFO - Normalizing data
+2024-06-17 23:04:43,163 - INFO - Stock data extraction and normalization complete for IGTI3
+2024-06-17 23:04:43,163 - INFO - Starting stock scrapper for BRSR3
+2024-06-17 23:04:43,163 - INFO - Getting stock data for BRSR3
+2024-06-17 23:04:43,217 - INFO - Extracting stock info
+2024-06-17 23:04:43,264 - INFO - Normalizing data
+2024-06-17 23:04:43,264 - INFO - Extracting stock info
+2024-06-17 23:04:43,264 - INFO - Extracting stock info
+2024-06-17 23:04:43,264 - INFO - Extracting stock info
+2024-06-17 23:04:43,264 - INFO - Extracting stock info
+2024-06-17 23:04:43,279 - INFO - Stock data extraction and normalization complete for SCAR3
+2024-06-17 23:04:43,279 - INFO - Normalizing data
+2024-06-17 23:04:43,295 - INFO - Normalizing data
+2024-06-17 23:04:43,301 - INFO - Extracting stock info
+2024-06-17 23:04:43,301 - INFO - Normalizing data
+2024-06-17 23:04:43,301 - INFO - Normalizing data
+2024-06-17 23:04:43,317 - INFO - Starting stock scrapper for HAGA4
+2024-06-17 23:04:43,317 - INFO - Extracting stock info
+2024-06-17 23:04:43,333 - INFO - Stock data extraction and normalization complete for WEST3
+2024-06-17 23:04:43,348 - INFO - Stock data extraction and normalization complete for IGTI3
+2024-06-17 23:04:43,348 - INFO - Normalizing data
+2024-06-17 23:04:43,364 - INFO - Getting stock data for HAGA4
+2024-06-17 23:04:43,364 - INFO - Stock data extraction and normalization complete for NINJ3
+2024-06-17 23:04:43,364 - INFO - Normalizing data
+2024-06-17 23:04:43,364 - INFO - Stock data extraction and normalization complete for VSTE3
+2024-06-17 23:04:43,364 - INFO - Starting stock scrapper for DOTZ3
+2024-06-17 23:04:43,364 - INFO - Starting stock scrapper for RNEW3
+2024-06-17 23:04:43,364 - INFO - Stock data extraction and normalization complete for EALT4
+2024-06-17 23:04:43,364 - INFO - Starting stock scrapper for MTSA4
+2024-06-17 23:04:43,379 - INFO - Starting stock scrapper for NUTR3
+2024-06-17 23:04:43,379 - INFO - Stock data extraction and normalization complete for TASA3
+2024-06-17 23:04:43,379 - INFO - Getting stock data for DOTZ3
+2024-06-17 23:04:43,379 - INFO - Getting stock data for RNEW3
+2024-06-17 23:04:43,379 - INFO - Starting stock scrapper for CEBR5
+2024-06-17 23:04:43,379 - INFO - Getting stock data for MTSA4
+2024-06-17 23:04:43,379 - INFO - Getting stock data for NUTR3
+2024-06-17 23:04:43,379 - INFO - Starting stock scrapper for CTSA4
+2024-06-17 23:04:43,379 - INFO - Getting stock data for CEBR5
+2024-06-17 23:04:43,379 - INFO - Getting stock data for CTSA4
+2024-06-17 23:04:43,402 - INFO - Extracting stock info
+2024-06-17 23:04:43,402 - INFO - Normalizing data
+2024-06-17 23:04:43,417 - INFO - Stock data extraction and normalization complete for BRSR3
+2024-06-17 23:04:43,417 - INFO - Starting stock scrapper for LVTC3
+2024-06-17 23:04:43,417 - INFO - Getting stock data for LVTC3
+2024-06-17 23:04:43,517 - INFO - Extracting stock info
+2024-06-17 23:04:43,517 - INFO - Normalizing data
+2024-06-17 23:04:43,517 - INFO - Stock data extraction and normalization complete for HAGA4
+2024-06-17 23:04:43,533 - INFO - Extracting stock info
+2024-06-17 23:04:43,533 - INFO - Starting stock scrapper for ALUP4
+2024-06-17 23:04:43,549 - INFO - Normalizing data
+2024-06-17 23:04:43,549 - INFO - Getting stock data for ALUP4
+2024-06-17 23:04:43,564 - INFO - Stock data extraction and normalization complete for NUTR3
+2024-06-17 23:04:43,564 - INFO - Extracting stock info
+2024-06-17 23:04:43,580 - INFO - Extracting stock info
+2024-06-17 23:04:43,618 - INFO - Starting stock scrapper for CLSC4
+2024-06-17 23:04:43,618 - INFO - Extracting stock info
+2024-06-17 23:04:43,633 - INFO - Extracting stock info
+2024-06-17 23:04:43,649 - INFO - Extracting stock info
+2024-06-17 23:04:43,649 - INFO - Extracting stock info
+2024-06-17 23:04:43,649 - INFO - Normalizing data
+2024-06-17 23:04:43,649 - INFO - Normalizing data
+2024-06-17 23:04:43,649 - INFO - Getting stock data for CLSC4
+2024-06-17 23:04:43,649 - INFO - Normalizing data
+2024-06-17 23:04:43,649 - INFO - Normalizing data
+2024-06-17 23:04:43,665 - INFO - Normalizing data
+2024-06-17 23:04:43,665 - INFO - Normalizing data
+2024-06-17 23:04:43,665 - INFO - Stock data extraction and normalization complete for CEBR5
+2024-06-17 23:04:43,665 - INFO - Stock data extraction and normalization complete for RNEW3
+2024-06-17 23:04:43,680 - INFO - Stock data extraction and normalization complete for DOTZ3
+2024-06-17 23:04:43,680 - INFO - Stock data extraction and normalization complete for CTSA4
+2024-06-17 23:04:43,696 - INFO - Stock data extraction and normalization complete for LVTC3
+2024-06-17 23:04:43,702 - INFO - Stock data extraction and normalization complete for MTSA4
+2024-06-17 23:04:43,702 - INFO - Starting stock scrapper for BOBR4
+2024-06-17 23:04:43,702 - INFO - Starting stock scrapper for MGEL4
+2024-06-17 23:04:43,702 - INFO - Starting stock scrapper for BPAC5
+2024-06-17 23:04:43,702 - INFO - Starting stock scrapper for HAGA3
+2024-06-17 23:04:43,702 - INFO - Starting stock scrapper for TELB4
+2024-06-17 23:04:43,702 - INFO - Starting stock scrapper for BRKM3
+2024-06-17 23:04:43,702 - INFO - Getting stock data for BOBR4
+2024-06-17 23:04:43,702 - INFO - Getting stock data for MGEL4
+2024-06-17 23:04:43,702 - INFO - Getting stock data for BPAC5
+2024-06-17 23:04:43,702 - INFO - Getting stock data for HAGA3
+2024-06-17 23:04:43,702 - INFO - Getting stock data for TELB4
+2024-06-17 23:04:43,702 - INFO - Getting stock data for BRKM3
+2024-06-17 23:04:43,780 - INFO - Extracting stock info
+2024-06-17 23:04:43,780 - INFO - Normalizing data
+2024-06-17 23:04:43,796 - INFO - Stock data extraction and normalization complete for ALUP4
+2024-06-17 23:04:43,796 - INFO - Starting stock scrapper for GOLL11
+2024-06-17 23:04:43,796 - INFO - Getting stock data for GOLL11
+2024-06-17 23:04:43,818 - INFO - Extracting stock info
+2024-06-17 23:04:43,818 - INFO - Normalizing data
+2024-06-17 23:04:43,818 - INFO - Stock data extraction and normalization complete for CLSC4
+2024-06-17 23:04:43,818 - INFO - Starting stock scrapper for BMEB4
+2024-06-17 23:04:43,818 - INFO - Getting stock data for BMEB4
+2024-06-17 23:04:43,834 - INFO - Extracting stock info
+2024-06-17 23:04:43,850 - INFO - Normalizing data
+2024-06-17 23:04:43,881 - INFO - Extracting stock info
+2024-06-17 23:04:43,881 - INFO - Normalizing data
+2024-06-17 23:04:43,881 - INFO - Stock data extraction and normalization complete for BPAC5
+2024-06-17 23:04:43,881 - INFO - Starting stock scrapper for FHER3
+2024-06-17 23:04:43,881 - INFO - Getting stock data for FHER3
+2024-06-17 23:04:43,896 - INFO - Stock data extraction and normalization complete for BOBR4
+2024-06-17 23:04:43,896 - INFO - Starting stock scrapper for DEXP4
+2024-06-17 23:04:43,896 - INFO - Getting stock data for DEXP4
+2024-06-17 23:04:43,896 - INFO - Extracting stock info
+2024-06-17 23:04:43,896 - INFO - Normalizing data
+2024-06-17 23:04:43,919 - INFO - Stock data extraction and normalization complete for HAGA3
+2024-06-17 23:04:43,934 - INFO - Extracting stock info
+2024-06-17 23:04:43,981 - INFO - Starting stock scrapper for ENGI3
+2024-06-17 23:04:43,997 - INFO - Extracting stock info
+2024-06-17 23:04:44,003 - INFO - Normalizing data
+2024-06-17 23:04:44,003 - INFO - Getting stock data for ENGI3
+2024-06-17 23:04:44,003 - INFO - Normalizing data
+2024-06-17 23:04:44,003 - INFO - Extracting stock info
+2024-06-17 23:04:44,003 - INFO - Extracting stock info
+2024-06-17 23:04:44,003 - INFO - Stock data extraction and normalization complete for BRKM3
+2024-06-17 23:04:44,019 - INFO - Normalizing data
+2024-06-17 23:04:44,019 - INFO - Normalizing data
+2024-06-17 23:04:44,019 - INFO - Stock data extraction and normalization complete for TELB4
+2024-06-17 23:04:44,019 - INFO - Starting stock scrapper for BEES4
+2024-06-17 23:04:44,034 - INFO - Stock data extraction and normalization complete for GOLL11
+2024-06-17 23:04:44,034 - INFO - Stock data extraction and normalization complete for MGEL4
+2024-06-17 23:04:44,034 - INFO - Starting stock scrapper for UNIP3
+2024-06-17 23:04:44,034 - INFO - Getting stock data for BEES4
+2024-06-17 23:04:44,034 - INFO - Starting stock scrapper for ALUP3
+2024-06-17 23:04:44,034 - INFO - Starting stock scrapper for PTNT4
+2024-06-17 23:04:44,034 - INFO - Getting stock data for UNIP3
+2024-06-17 23:04:44,034 - INFO - Getting stock data for ALUP3
+2024-06-17 23:04:44,034 - INFO - Getting stock data for PTNT4
+2024-06-17 23:04:44,103 - INFO - Extracting stock info
+2024-06-17 23:04:44,119 - INFO - Normalizing data
+2024-06-17 23:04:44,135 - INFO - Stock data extraction and normalization complete for BMEB4
+2024-06-17 23:04:44,150 - INFO - Starting stock scrapper for CGRA4
+2024-06-17 23:04:44,150 - INFO - Getting stock data for CGRA4
+2024-06-17 23:04:44,150 - INFO - Extracting stock info
+2024-06-17 23:04:44,150 - INFO - Normalizing data
+2024-06-17 23:04:44,150 - INFO - Stock data extraction and normalization complete for DEXP4
+2024-06-17 23:04:44,150 - INFO - Starting stock scrapper for BGIP3
+2024-06-17 23:04:44,150 - INFO - Getting stock data for BGIP3
+2024-06-17 23:04:44,150 - INFO - Extracting stock info
+2024-06-17 23:04:44,150 - INFO - Normalizing data
+2024-06-17 23:04:44,166 - INFO - Stock data extraction and normalization complete for FHER3
+2024-06-17 23:04:44,166 - INFO - Starting stock scrapper for OFSA3
+2024-06-17 23:04:44,166 - INFO - Getting stock data for OFSA3
+2024-06-17 23:04:44,182 - INFO - Extracting stock info
+2024-06-17 23:04:44,182 - INFO - Normalizing data
+2024-06-17 23:04:44,197 - INFO - Stock data extraction and normalization complete for ENGI3
+2024-06-17 23:04:44,197 - INFO - Starting stock scrapper for RDNI3
+2024-06-17 23:04:44,197 - INFO - Getting stock data for RDNI3
+2024-06-17 23:04:44,204 - INFO - Extracting stock info
+2024-06-17 23:04:44,219 - INFO - Normalizing data
+2024-06-17 23:04:44,219 - INFO - Stock data extraction and normalization complete for PTNT4
+2024-06-17 23:04:44,219 - INFO - Starting stock scrapper for COCE5
+2024-06-17 23:04:44,219 - INFO - Getting stock data for COCE5
+2024-06-17 23:04:44,235 - INFO - Extracting stock info
+2024-06-17 23:04:44,251 - INFO - Extracting stock info
+2024-06-17 23:04:44,266 - INFO - Extracting stock info
+2024-06-17 23:04:44,266 - INFO - Normalizing data
+2024-06-17 23:04:44,266 - INFO - Normalizing data
+2024-06-17 23:04:44,282 - INFO - Normalizing data
+2024-06-17 23:04:44,282 - INFO - Stock data extraction and normalization complete for BEES4
+2024-06-17 23:04:44,282 - INFO - Stock data extraction and normalization complete for ALUP3
+2024-06-17 23:04:44,297 - INFO - Starting stock scrapper for CEBR3
+2024-06-17 23:04:44,297 - INFO - Stock data extraction and normalization complete for UNIP3
+2024-06-17 23:04:44,297 - INFO - Starting stock scrapper for CGRA3
+2024-06-17 23:04:44,297 - INFO - Getting stock data for CEBR3
+2024-06-17 23:04:44,297 - INFO - Starting stock scrapper for CEBR6
+2024-06-17 23:04:44,304 - INFO - Getting stock data for CGRA3
+2024-06-17 23:04:44,320 - INFO - Extracting stock info
+2024-06-17 23:04:44,320 - INFO - Getting stock data for CEBR6
+2024-06-17 23:04:44,320 - INFO - Normalizing data
+2024-06-17 23:04:44,343 - INFO - Extracting stock info
+2024-06-17 23:04:44,349 - INFO - Extracting stock info
+2024-06-17 23:04:44,365 - INFO - Normalizing data
+2024-06-17 23:04:44,380 - INFO - Stock data extraction and normalization complete for CGRA4
+2024-06-17 23:04:44,389 - INFO - Stock data extraction and normalization complete for BGIP3
+2024-06-17 23:04:44,390 - INFO - Normalizing data
+2024-06-17 23:04:44,390 - INFO - Starting stock scrapper for EQPA3
+2024-06-17 23:04:44,404 - INFO - Extracting stock info
+2024-06-17 23:04:44,404 - INFO - Starting stock scrapper for ATOM3
+2024-06-17 23:04:44,404 - INFO - Getting stock data for EQPA3
+2024-06-17 23:04:44,404 - INFO - Stock data extraction and normalization complete for RDNI3
+2024-06-17 23:04:44,404 - INFO - Normalizing data
+2024-06-17 23:04:44,404 - INFO - Getting stock data for ATOM3
+2024-06-17 23:04:44,419 - INFO - Starting stock scrapper for BAHI3
+2024-06-17 23:04:44,435 - INFO - Stock data extraction and normalization complete for OFSA3
+2024-06-17 23:04:44,435 - INFO - Getting stock data for BAHI3
+2024-06-17 23:04:44,435 - INFO - Starting stock scrapper for ATMP3
+2024-06-17 23:04:44,435 - INFO - Extracting stock info
+2024-06-17 23:04:44,435 - INFO - Getting stock data for ATMP3
+2024-06-17 23:04:44,435 - INFO - Normalizing data
+2024-06-17 23:04:44,451 - INFO - Stock data extraction and normalization complete for COCE5
+2024-06-17 23:04:44,451 - INFO - Starting stock scrapper for BGIP4
+2024-06-17 23:04:44,451 - INFO - Getting stock data for BGIP4
+2024-06-17 23:04:44,504 - INFO - Extracting stock info
+2024-06-17 23:04:44,504 - INFO - Normalizing data
+2024-06-17 23:04:44,504 - INFO - Stock data extraction and normalization complete for CGRA3
+2024-06-17 23:04:44,504 - INFO - Starting stock scrapper for ENMT4
+2024-06-17 23:04:44,504 - INFO - Getting stock data for ENMT4
+2024-06-17 23:04:44,535 - INFO - Extracting stock info
+2024-06-17 23:04:44,535 - INFO - Normalizing data
+2024-06-17 23:04:44,535 - INFO - Stock data extraction and normalization complete for CEBR3
+2024-06-17 23:04:44,535 - INFO - Starting stock scrapper for WLMM4
+2024-06-17 23:04:44,535 - INFO - Getting stock data for WLMM4
+2024-06-17 23:04:44,551 - INFO - Extracting stock info
+2024-06-17 23:04:44,567 - INFO - Normalizing data
+2024-06-17 23:04:44,567 - INFO - Stock data extraction and normalization complete for CEBR6
+2024-06-17 23:04:44,567 - INFO - Starting stock scrapper for REDE3
+2024-06-17 23:04:44,598 - INFO - Getting stock data for REDE3
+2024-06-17 23:04:44,598 - INFO - Extracting stock info
+2024-06-17 23:04:44,620 - INFO - Normalizing data
+2024-06-17 23:04:44,629 - INFO - Stock data extraction and normalization complete for BAHI3
+2024-06-17 23:04:44,630 - INFO - Starting stock scrapper for WHRL3
+2024-06-17 23:04:44,630 - INFO - Getting stock data for WHRL3
+2024-06-17 23:04:44,634 - INFO - Extracting stock info
+2024-06-17 23:04:44,638 - INFO - Normalizing data
+2024-06-17 23:04:44,640 - INFO - Extracting stock info
+2024-06-17 23:04:44,640 - INFO - Normalizing data
+2024-06-17 23:04:44,640 - INFO - Stock data extraction and normalization complete for ATOM3
+2024-06-17 23:04:44,640 - INFO - Starting stock scrapper for EMAE4
+2024-06-17 23:04:44,640 - INFO - Getting stock data for EMAE4
+2024-06-17 23:04:44,640 - INFO - Stock data extraction and normalization complete for EQPA3
+2024-06-17 23:04:44,640 - INFO - Starting stock scrapper for CEDO4
+2024-06-17 23:04:44,640 - INFO - Getting stock data for CEDO4
+2024-06-17 23:04:44,686 - INFO - Extracting stock info
+2024-06-17 23:04:44,686 - INFO - Normalizing data
+2024-06-17 23:04:44,686 - INFO - Stock data extraction and normalization complete for BGIP4
+2024-06-17 23:04:44,702 - INFO - Starting stock scrapper for FESA3
+2024-06-17 23:04:44,702 - INFO - Getting stock data for FESA3
+2024-06-17 23:04:44,702 - INFO - Extracting stock info
+2024-06-17 23:04:44,705 - INFO - Normalizing data
+2024-06-17 23:04:44,705 - INFO - Stock data extraction and normalization complete for ATMP3
+2024-06-17 23:04:44,705 - INFO - Starting stock scrapper for BALM4
+2024-06-17 23:04:44,705 - INFO - Getting stock data for BALM4
+2024-06-17 23:04:44,720 - INFO - Extracting stock info
+2024-06-17 23:04:44,720 - INFO - Normalizing data
+2024-06-17 23:04:44,720 - INFO - Stock data extraction and normalization complete for ENMT4
+2024-06-17 23:04:44,720 - INFO - Starting stock scrapper for NEXP3
+2024-06-17 23:04:44,720 - INFO - Getting stock data for NEXP3
+2024-06-17 23:04:44,752 - INFO - Extracting stock info
+2024-06-17 23:04:44,755 - INFO - Normalizing data
+2024-06-17 23:04:44,755 - INFO - Stock data extraction and normalization complete for WLMM4
+2024-06-17 23:04:44,755 - INFO - Starting stock scrapper for BPAC3
+2024-06-17 23:04:44,755 - INFO - Getting stock data for BPAC3
+2024-06-17 23:04:44,821 - INFO - Extracting stock info
+2024-06-17 23:04:44,875 - INFO - Normalizing data
+2024-06-17 23:04:44,875 - INFO - Stock data extraction and normalization complete for EMAE4
+2024-06-17 23:04:44,875 - INFO - Starting stock scrapper for LUXM4
+2024-06-17 23:04:44,875 - INFO - Getting stock data for LUXM4
+2024-06-17 23:04:44,891 - INFO - Extracting stock info
+2024-06-17 23:04:44,891 - INFO - Normalizing data
+2024-06-17 23:04:44,891 - INFO - Stock data extraction and normalization complete for CEDO4
+2024-06-17 23:04:44,891 - INFO - Starting stock scrapper for ALPA3
+2024-06-17 23:04:44,891 - INFO - Getting stock data for ALPA3
+2024-06-17 23:04:44,921 - INFO - Extracting stock info
+2024-06-17 23:04:44,921 - INFO - Normalizing data
+2024-06-17 23:04:44,921 - INFO - Extracting stock info
+2024-06-17 23:04:44,936 - INFO - Stock data extraction and normalization complete for WHRL3
+2024-06-17 23:04:44,952 - INFO - Normalizing data
+2024-06-17 23:04:44,983 - INFO - Extracting stock info
+2024-06-17 23:04:44,983 - INFO - Extracting stock info
+2024-06-17 23:04:44,999 - INFO - Extracting stock info
+2024-06-17 23:04:44,999 - INFO - Starting stock scrapper for DOHL4
+2024-06-17 23:04:44,999 - INFO - Extracting stock info
+2024-06-17 23:04:45,007 - INFO - Stock data extraction and normalization complete for BALM4
+2024-06-17 23:04:45,010 - INFO - Normalizing data
+2024-06-17 23:04:45,015 - INFO - Normalizing data
+2024-06-17 23:04:45,018 - INFO - Normalizing data
+2024-06-17 23:04:45,018 - INFO - Getting stock data for DOHL4
+2024-06-17 23:04:45,022 - INFO - Normalizing data
+2024-06-17 23:04:45,022 - INFO - Starting stock scrapper for RSUL4
+2024-06-17 23:04:45,036 - INFO - Stock data extraction and normalization complete for REDE3
+2024-06-17 23:04:45,038 - INFO - Stock data extraction and normalization complete for BPAC3
+2024-06-17 23:04:45,046 - INFO - Stock data extraction and normalization complete for NEXP3
+2024-06-17 23:04:45,053 - INFO - Getting stock data for RSUL4
+2024-06-17 23:04:45,058 - INFO - Stock data extraction and normalization complete for FESA3
+2024-06-17 23:04:45,058 - INFO - Starting stock scrapper for APER3
+2024-06-17 23:04:45,058 - INFO - Starting stock scrapper for BAZA3
+2024-06-17 23:04:45,058 - INFO - Starting stock scrapper for BMIN4
+2024-06-17 23:04:45,059 - INFO - Starting stock scrapper for NORD3
+2024-06-17 23:04:45,059 - INFO - Getting stock data for APER3
+2024-06-17 23:04:45,059 - INFO - Getting stock data for BAZA3
+2024-06-17 23:04:45,060 - INFO - Getting stock data for BMIN4
+2024-06-17 23:04:45,060 - INFO - Getting stock data for NORD3
+2024-06-17 23:04:45,122 - INFO - Extracting stock info
+2024-06-17 23:04:45,124 - INFO - Extracting stock info
+2024-06-17 23:04:45,140 - INFO - Normalizing data
+2024-06-17 23:04:45,140 - INFO - Normalizing data
+2024-06-17 23:04:45,140 - INFO - Stock data extraction and normalization complete for LUXM4
+2024-06-17 23:04:45,156 - INFO - Starting stock scrapper for WHRL4
+2024-06-17 23:04:45,156 - INFO - Stock data extraction and normalization complete for ALPA3
+2024-06-17 23:04:45,156 - INFO - Starting stock scrapper for CRPG6
+2024-06-17 23:04:45,156 - INFO - Getting stock data for WHRL4
+2024-06-17 23:04:45,156 - INFO - Getting stock data for CRPG6
+2024-06-17 23:04:45,187 - INFO - Extracting stock info
+2024-06-17 23:04:45,187 - INFO - Normalizing data
+2024-06-17 23:04:45,187 - INFO - Stock data extraction and normalization complete for DOHL4
+2024-06-17 23:04:45,187 - INFO - Starting stock scrapper for SNSY3
+2024-06-17 23:04:45,187 - INFO - Getting stock data for SNSY3
+2024-06-17 23:04:45,206 - INFO - Extracting stock info
+2024-06-17 23:04:45,206 - INFO - Normalizing data
+2024-06-17 23:04:45,222 - INFO - Stock data extraction and normalization complete for RSUL4
+2024-06-17 23:04:45,222 - INFO - Starting stock scrapper for CTSA3
+2024-06-17 23:04:45,222 - INFO - Getting stock data for CTSA3
+2024-06-17 23:04:45,237 - INFO - Extracting stock info
+2024-06-17 23:04:45,253 - INFO - Normalizing data
+2024-06-17 23:04:45,268 - INFO - Stock data extraction and normalization complete for NORD3
+2024-06-17 23:04:45,284 - INFO - Extracting stock info
+2024-06-17 23:04:45,284 - INFO - Starting stock scrapper for EKTR4
+2024-06-17 23:04:45,317 - INFO - Getting stock data for EKTR4
+2024-06-17 23:04:45,299 - INFO - Extracting stock info
+2024-06-17 23:04:45,315 - INFO - Normalizing data
+2024-06-17 23:04:45,317 - INFO - Extracting stock info
+2024-06-17 23:04:45,301 - INFO - Extracting stock info
+2024-06-17 23:04:45,333 - INFO - Normalizing data
+2024-06-17 23:04:45,333 - INFO - Extracting stock info
+2024-06-17 23:04:45,348 - INFO - Stock data extraction and normalization complete for APER3
+2024-06-17 23:04:45,348 - INFO - Normalizing data
+2024-06-17 23:04:45,348 - INFO - Normalizing data
+2024-06-17 23:04:45,364 - INFO - Normalizing data
+2024-06-17 23:04:45,364 - INFO - Stock data extraction and normalization complete for BMIN4
+2024-06-17 23:04:45,364 - INFO - Starting stock scrapper for TRPL3
+2024-06-17 23:04:45,364 - INFO - Stock data extraction and normalization complete for WHRL4
+2024-06-17 23:04:45,364 - INFO - Stock data extraction and normalization complete for BAZA3
+2024-06-17 23:04:45,380 - INFO - Starting stock scrapper for MRSA3B
+2024-06-17 23:04:45,380 - INFO - Stock data extraction and normalization complete for CRPG6
+2024-06-17 23:04:45,380 - INFO - Getting stock data for TRPL3
+2024-06-17 23:04:45,380 - INFO - Starting stock scrapper for PINE3
+2024-06-17 23:04:45,380 - INFO - Extracting stock info
+2024-06-17 23:04:45,380 - INFO - Starting stock scrapper for OSXB3
+2024-06-17 23:04:45,380 - INFO - Getting stock data for MRSA3B
+2024-06-17 23:04:45,380 - INFO - Starting stock scrapper for UNIP5
+2024-06-17 23:04:45,380 - INFO - Getting stock data for PINE3
+2024-06-17 23:04:45,380 - INFO - Normalizing data
+2024-06-17 23:04:45,380 - INFO - Getting stock data for OSXB3
+2024-06-17 23:04:45,380 - INFO - Getting stock data for UNIP5
+2024-06-17 23:04:45,395 - INFO - Stock data extraction and normalization complete for SNSY3
+2024-06-17 23:04:45,395 - INFO - Starting stock scrapper for CSRN3
+2024-06-17 23:04:45,395 - INFO - Getting stock data for CSRN3
+2024-06-17 23:04:45,421 - INFO - Extracting stock info
+2024-06-17 23:04:45,426 - INFO - Normalizing data
+2024-06-17 23:04:45,436 - INFO - Stock data extraction and normalization complete for CTSA3
+2024-06-17 23:04:45,436 - INFO - Starting stock scrapper for PSVM11
+2024-06-17 23:04:45,436 - INFO - Getting stock data for PSVM11
+2024-06-17 23:04:45,499 - INFO - Extracting stock info
+2024-06-17 23:04:45,506 - INFO - Normalizing data
+2024-06-17 23:04:45,506 - INFO - Stock data extraction and normalization complete for EKTR4
+2024-06-17 23:04:45,506 - INFO - Starting stock scrapper for CEDO3
+2024-06-17 23:04:45,506 - INFO - Getting stock data for CEDO3
+2024-06-17 23:04:45,537 - INFO - Extracting stock info
+2024-06-17 23:04:45,537 - INFO - Normalizing data
+2024-06-17 23:04:45,537 - INFO - Stock data extraction and normalization complete for MRSA3B
+2024-06-17 23:04:45,568 - INFO - Starting stock scrapper for GEPA4
+2024-06-17 23:04:45,600 - INFO - Extracting stock info
+2024-06-17 23:04:45,600 - INFO - Extracting stock info
+2024-06-17 23:04:45,600 - INFO - Getting stock data for GEPA4
+2024-06-17 23:04:45,606 - INFO - Extracting stock info
+2024-06-17 23:04:45,608 - INFO - Normalizing data
+2024-06-17 23:04:45,608 - INFO - Normalizing data
+2024-06-17 23:04:45,628 - INFO - Extracting stock info
+2024-06-17 23:04:45,636 - INFO - Extracting stock info
+2024-06-17 23:04:45,646 - INFO - Extracting stock info
+2024-06-17 23:04:45,646 - INFO - Normalizing data
+2024-06-17 23:04:45,659 - INFO - Stock data extraction and normalization complete for UNIP5
+2024-06-17 23:04:45,659 - INFO - Stock data extraction and normalization complete for TRPL3
+2024-06-17 23:04:45,667 - INFO - Normalizing data
+2024-06-17 23:04:45,667 - INFO - Normalizing data
+2024-06-17 23:04:45,667 - INFO - Normalizing data
+2024-06-17 23:04:45,667 - INFO - Starting stock scrapper for GSHP3
+2024-06-17 23:04:45,677 - INFO - Stock data extraction and normalization complete for PINE3
+2024-06-17 23:04:45,677 - INFO - Starting stock scrapper for CGAS5
+2024-06-17 23:04:45,699 - INFO - Extracting stock info
+2024-06-17 23:04:45,703 - INFO - Stock data extraction and normalization complete for PSVM11
+2024-06-17 23:04:45,706 - INFO - Stock data extraction and normalization complete for CSRN3
+2024-06-17 23:04:45,709 - INFO - Getting stock data for GSHP3
+2024-06-17 23:04:45,712 - INFO - Stock data extraction and normalization complete for OSXB3
+2024-06-17 23:04:45,712 - INFO - Starting stock scrapper for CGAS3
+2024-06-17 23:04:45,712 - INFO - Getting stock data for CGAS5
+2024-06-17 23:04:45,712 - INFO - Normalizing data
+2024-06-17 23:04:45,712 - INFO - Starting stock scrapper for BAUH4
+2024-06-17 23:04:45,712 - INFO - Starting stock scrapper for CLSC3
+2024-06-17 23:04:45,712 - INFO - Starting stock scrapper for CRPG5
+2024-06-17 23:04:45,712 - INFO - Getting stock data for CGAS3
+2024-06-17 23:04:45,712 - INFO - Stock data extraction and normalization complete for CEDO3
+2024-06-17 23:04:45,712 - INFO - Getting stock data for BAUH4
+2024-06-17 23:04:45,712 - INFO - Getting stock data for CLSC3
+2024-06-17 23:04:45,712 - INFO - Getting stock data for CRPG5
+2024-06-17 23:04:45,712 - INFO - Starting stock scrapper for EQMA3B
+2024-06-17 23:04:45,712 - INFO - Getting stock data for EQMA3B
+2024-06-17 23:04:45,855 - INFO - Extracting stock info
+2024-06-17 23:04:45,855 - INFO - Normalizing data
+2024-06-17 23:04:45,870 - INFO - Stock data extraction and normalization complete for GEPA4
+2024-06-17 23:04:45,870 - INFO - Starting stock scrapper for JOPA3
+2024-06-17 23:04:45,877 - INFO - Getting stock data for JOPA3
+2024-06-17 23:04:45,877 - INFO - Extracting stock info
+2024-06-17 23:04:45,892 - INFO - Normalizing data
+2024-06-17 23:04:45,924 - INFO - Stock data extraction and normalization complete for GSHP3
+2024-06-17 23:04:45,939 - INFO - Starting stock scrapper for CTKA4
+2024-06-17 23:04:45,939 - INFO - Extracting stock info
+2024-06-17 23:04:45,955 - INFO - Getting stock data for CTKA4
+2024-06-17 23:04:45,955 - INFO - Extracting stock info
+2024-06-17 23:04:45,955 - INFO - Extracting stock info
+2024-06-17 23:04:45,955 - INFO - Extracting stock info
+2024-06-17 23:04:45,955 - INFO - Normalizing data
+2024-06-17 23:04:45,986 - INFO - Normalizing data
+2024-06-17 23:04:45,991 - INFO - Extracting stock info
+2024-06-17 23:04:45,991 - INFO - Extracting stock info
+2024-06-17 23:04:46,007 - INFO - Normalizing data
+2024-06-17 23:04:46,007 - INFO - Normalizing data
+2024-06-17 23:04:46,007 - INFO - Stock data extraction and normalization complete for CGAS5
+2024-06-17 23:04:46,023 - INFO - Normalizing data
+2024-06-17 23:04:46,023 - INFO - Normalizing data
+2024-06-17 23:04:46,023 - INFO - Stock data extraction and normalization complete for CGAS3
+2024-06-17 23:04:46,023 - INFO - Stock data extraction and normalization complete for CLSC3
+2024-06-17 23:04:46,038 - INFO - Starting stock scrapper for MNDL3
+2024-06-17 23:04:46,038 - INFO - Stock data extraction and normalization complete for BAUH4
+2024-06-17 23:04:46,038 - INFO - Stock data extraction and normalization complete for CRPG5
+2024-06-17 23:04:46,038 - INFO - Stock data extraction and normalization complete for EQMA3B
+2024-06-17 23:04:46,038 - INFO - Starting stock scrapper for MERC4
+2024-06-17 23:04:46,038 - INFO - Starting stock scrapper for BSLI3
+2024-06-17 23:04:46,038 - INFO - Getting stock data for MNDL3
+2024-06-17 23:04:46,054 - INFO - Starting stock scrapper for ESTR4
+2024-06-17 23:04:46,054 - INFO - Starting stock scrapper for AZEV11
+2024-06-17 23:04:46,054 - INFO - Starting stock scrapper for BMKS3
+2024-06-17 23:04:46,054 - INFO - Getting stock data for MERC4
+2024-06-17 23:04:46,054 - INFO - Getting stock data for BSLI3
+2024-06-17 23:04:46,054 - INFO - Getting stock data for ESTR4
+2024-06-17 23:04:46,054 - INFO - Getting stock data for AZEV11
+2024-06-17 23:04:46,054 - INFO - Getting stock data for BMKS3
+2024-06-17 23:04:46,103 - INFO - Extracting stock info
+2024-06-17 23:04:46,103 - INFO - Normalizing data
+2024-06-17 23:04:46,118 - INFO - Stock data extraction and normalization complete for JOPA3
+2024-06-17 23:04:46,118 - INFO - Starting stock scrapper for PLAS3
+2024-06-17 23:04:46,118 - INFO - Getting stock data for PLAS3
+2024-06-17 23:04:46,143 - INFO - Extracting stock info
+2024-06-17 23:04:46,143 - INFO - Normalizing data
+2024-06-17 23:04:46,158 - INFO - Stock data extraction and normalization complete for CTKA4
+2024-06-17 23:04:46,158 - INFO - Starting stock scrapper for BMEB3
+2024-06-17 23:04:46,158 - INFO - Getting stock data for BMEB3
+2024-06-17 23:04:46,177 - INFO - Extracting stock info
+2024-06-17 23:04:46,208 - INFO - Normalizing data
+2024-06-17 23:04:46,224 - INFO - Extracting stock info
+2024-06-17 23:04:46,224 - INFO - Stock data extraction and normalization complete for MNDL3
+2024-06-17 23:04:46,224 - INFO - Normalizing data
+2024-06-17 23:04:46,224 - INFO - Extracting stock info
+2024-06-17 23:04:46,224 - INFO - Starting stock scrapper for SNSY5
+2024-06-17 23:04:46,224 - INFO - Extracting stock info
+2024-06-17 23:04:46,245 - INFO - Stock data extraction and normalization complete for ESTR4
+2024-06-17 23:04:46,246 - INFO - Normalizing data
+2024-06-17 23:04:46,246 - INFO - Getting stock data for SNSY5
+2024-06-17 23:04:46,273 - INFO - Normalizing data
+2024-06-17 23:04:46,277 - INFO - Extracting stock info
+2024-06-17 23:04:46,277 - INFO - Starting stock scrapper for EUCA3
+2024-06-17 23:04:46,277 - INFO - Extracting stock info
+2024-06-17 23:04:46,277 - INFO - Stock data extraction and normalization complete for AZEV11
+2024-06-17 23:04:46,296 - INFO - Normalizing data
+2024-06-17 23:04:46,299 - INFO - Stock data extraction and normalization complete for MERC4
+2024-06-17 23:04:46,300 - INFO - Getting stock data for EUCA3
+2024-06-17 23:04:46,303 - INFO - Normalizing data
+2024-06-17 23:04:46,306 - INFO - Extracting stock info
+2024-06-17 23:04:46,321 - INFO - Starting stock scrapper for HOOT4
+2024-06-17 23:04:46,321 - INFO - Extracting stock info
+2024-06-17 23:04:46,337 - INFO - Starting stock scrapper for MAPT4
+2024-06-17 23:04:46,337 - INFO - Getting stock data for MAPT4
+2024-06-17 23:04:46,337 - INFO - Stock data extraction and normalization complete for BMKS3
+2024-06-17 23:04:46,337 - INFO - Normalizing data
+2024-06-17 23:04:46,337 - INFO - Getting stock data for HOOT4
+2024-06-17 23:04:46,337 - INFO - Normalizing data
+2024-06-17 23:04:46,337 - INFO - Stock data extraction and normalization complete for BSLI3
+2024-06-17 23:04:46,352 - INFO - Starting stock scrapper for BRKM6
+2024-06-17 23:04:46,352 - INFO - Stock data extraction and normalization complete for PLAS3
+2024-06-17 23:04:46,352 - INFO - Stock data extraction and normalization complete for BMEB3
+2024-06-17 23:04:46,352 - INFO - Starting stock scrapper for BNBR3
+2024-06-17 23:04:46,352 - INFO - Getting stock data for BRKM6
+2024-06-17 23:04:46,352 - INFO - Starting stock scrapper for MRSA6B
+2024-06-17 23:04:46,352 - INFO - Starting stock scrapper for MRSA5B
+2024-06-17 23:04:46,352 - INFO - Getting stock data for BNBR3
+2024-06-17 23:04:46,352 - INFO - Getting stock data for MRSA6B
+2024-06-17 23:04:46,352 - INFO - Getting stock data for MRSA5B
+2024-06-17 23:04:46,449 - INFO - Extracting stock info
+2024-06-17 23:04:46,449 - INFO - Normalizing data
+2024-06-17 23:04:46,449 - INFO - Stock data extraction and normalization complete for SNSY5
+2024-06-17 23:04:46,449 - INFO - Starting stock scrapper for HBTS5
+2024-06-17 23:04:46,449 - INFO - Getting stock data for HBTS5
+2024-06-17 23:04:46,488 - INFO - Extracting stock info
+2024-06-17 23:04:46,488 - INFO - Normalizing data
+2024-06-17 23:04:46,488 - INFO - Stock data extraction and normalization complete for EUCA3
+2024-06-17 23:04:46,488 - INFO - Starting stock scrapper for BDLL4
+2024-06-17 23:04:46,488 - INFO - Getting stock data for BDLL4
+2024-06-17 23:04:46,535 - INFO - Extracting stock info
+2024-06-17 23:04:46,535 - INFO - Extracting stock info
+2024-06-17 23:04:46,535 - INFO - Normalizing data
+2024-06-17 23:04:46,535 - INFO - Normalizing data
+2024-06-17 23:04:46,566 - INFO - Extracting stock info
+2024-06-17 23:04:46,566 - INFO - Extracting stock info
+2024-06-17 23:04:46,566 - INFO - Stock data extraction and normalization complete for MRSA5B
+2024-06-17 23:04:46,593 - INFO - Stock data extraction and normalization complete for MAPT4
+2024-06-17 23:04:46,593 - INFO - Extracting stock info
+2024-06-17 23:04:46,609 - INFO - Normalizing data
+2024-06-17 23:04:46,609 - INFO - Extracting stock info
+2024-06-17 23:04:46,609 - INFO - Normalizing data
+2024-06-17 23:04:46,609 - INFO - Starting stock scrapper for IGTI4
+2024-06-17 23:04:46,609 - INFO - Starting stock scrapper for IGTI4
+2024-06-17 23:04:46,609 - INFO - Normalizing data
+2024-06-17 23:04:46,625 - INFO - Stock data extraction and normalization complete for MRSA6B
+2024-06-17 23:04:46,628 - INFO - Normalizing data
+2024-06-17 23:04:46,632 - INFO - Getting stock data for IGTI4
+2024-06-17 23:04:46,635 - INFO - Stock data extraction and normalization complete for HOOT4
+2024-06-17 23:04:46,635 - INFO - Getting stock data for IGTI4
+2024-06-17 23:04:46,641 - INFO - Stock data extraction and normalization complete for BRKM6
+2024-06-17 23:04:46,641 - INFO - Starting stock scrapper for HETA4
+2024-06-17 23:04:46,645 - INFO - Stock data extraction and normalization complete for BNBR3
+2024-06-17 23:04:46,645 - INFO - Starting stock scrapper for BSLI4
+2024-06-17 23:04:46,661 - INFO - Extracting stock info
+2024-06-17 23:04:46,661 - INFO - Starting stock scrapper for AFLT3
+2024-06-17 23:04:46,661 - INFO - Getting stock data for HETA4
+2024-06-17 23:04:46,661 - INFO - Starting stock scrapper for CEEB3
+2024-06-17 23:04:46,661 - INFO - Getting stock data for BSLI4
+2024-06-17 23:04:46,661 - INFO - Normalizing data
+2024-06-17 23:04:46,661 - INFO - Getting stock data for AFLT3
+2024-06-17 23:04:46,661 - INFO - Getting stock data for CEEB3
+2024-06-17 23:04:46,676 - INFO - Stock data extraction and normalization complete for HBTS5
+2024-06-17 23:04:46,678 - INFO - Starting stock scrapper for EALT3
+2024-06-17 23:04:46,678 - INFO - Getting stock data for EALT3
+2024-06-17 23:04:46,778 - INFO - Extracting stock info
+2024-06-17 23:04:46,778 - INFO - Normalizing data
+2024-06-17 23:04:46,778 - INFO - Stock data extraction and normalization complete for BDLL4
+2024-06-17 23:04:46,778 - INFO - Starting stock scrapper for PEAB3
+2024-06-17 23:04:46,778 - INFO - Getting stock data for PEAB3
+2024-06-17 23:04:46,859 - INFO - Extracting stock info
+2024-06-17 23:04:46,862 - INFO - Normalizing data
+2024-06-17 23:04:46,863 - INFO - Stock data extraction and normalization complete for BSLI4
+2024-06-17 23:04:46,863 - INFO - Starting stock scrapper for GEPA3
+2024-06-17 23:04:46,863 - INFO - Getting stock data for GEPA3
+2024-06-17 23:04:46,863 - INFO - Extracting stock info
+2024-06-17 23:04:46,863 - INFO - Normalizing data
+2024-06-17 23:04:46,878 - INFO - Extracting stock info
+2024-06-17 23:04:46,878 - INFO - Normalizing data
+2024-06-17 23:04:46,878 - INFO - Stock data extraction and normalization complete for IGTI4
+2024-06-17 23:04:46,878 - INFO - Stock data extraction and normalization complete for CEEB3
+2024-06-17 23:04:46,894 - INFO - Starting stock scrapper for PTNT3
+2024-06-17 23:04:46,894 - INFO - Extracting stock info
+2024-06-17 23:04:46,894 - INFO - Extracting stock info
+2024-06-17 23:04:46,909 - INFO - Starting stock scrapper for FIEI3
+2024-06-17 23:04:46,909 - INFO - Getting stock data for PTNT3
+2024-06-17 23:04:46,909 - INFO - Extracting stock info
+2024-06-17 23:04:46,941 - INFO - Extracting stock info
+2024-06-17 23:04:46,941 - INFO - Normalizing data
+2024-06-17 23:04:46,941 - INFO - Getting stock data for FIEI3
+2024-06-17 23:04:46,941 - INFO - Normalizing data
+2024-06-17 23:04:46,941 - INFO - Normalizing data
+2024-06-17 23:04:46,941 - INFO - Normalizing data
+2024-06-17 23:04:46,941 - INFO - Stock data extraction and normalization complete for IGTI4
+2024-06-17 23:04:46,956 - INFO - Stock data extraction and normalization complete for AFLT3
+2024-06-17 23:04:46,956 - INFO - Starting stock scrapper for FRIO3
+2024-06-17 23:04:46,956 - INFO - Stock data extraction and normalization complete for EALT3
+2024-06-17 23:04:46,972 - INFO - Starting stock scrapper for MWET4
+2024-06-17 23:04:46,972 - INFO - Stock data extraction and normalization complete for HETA4
+2024-06-17 23:04:46,972 - INFO - Getting stock data for FRIO3
+2024-06-17 23:04:46,972 - INFO - Starting stock scrapper for TEKA4
+2024-06-17 23:04:46,972 - INFO - Getting stock data for MWET4
+2024-06-17 23:04:46,978 - INFO - Starting stock scrapper for CBEE3
+2024-06-17 23:04:46,978 - INFO - Extracting stock info
+2024-06-17 23:04:46,978 - INFO - Getting stock data for TEKA4
+2024-06-17 23:04:46,978 - INFO - Getting stock data for CBEE3
+2024-06-17 23:04:46,994 - INFO - Normalizing data
+2024-06-17 23:04:46,994 - INFO - Stock data extraction and normalization complete for PEAB3
+2024-06-17 23:04:46,994 - INFO - Starting stock scrapper for COCE3
+2024-06-17 23:04:46,994 - INFO - Getting stock data for COCE3
+2024-06-17 23:04:47,072 - INFO - Extracting stock info
+2024-06-17 23:04:47,072 - INFO - Normalizing data
+2024-06-17 23:04:47,079 - INFO - Stock data extraction and normalization complete for GEPA3
+2024-06-17 23:04:47,079 - INFO - Starting stock scrapper for AHEB5
+2024-06-17 23:04:47,079 - INFO - Getting stock data for AHEB5
+2024-06-17 23:04:47,094 - INFO - Extracting stock info
+2024-06-17 23:04:47,094 - INFO - Normalizing data
+2024-06-17 23:04:47,125 - INFO - Stock data extraction and normalization complete for PTNT3
+2024-06-17 23:04:47,125 - INFO - Starting stock scrapper for RPAD3
+2024-06-17 23:04:47,125 - INFO - Getting stock data for RPAD3
+2024-06-17 23:04:47,125 - INFO - Extracting stock info
+2024-06-17 23:04:47,125 - INFO - Normalizing data
+2024-06-17 23:04:47,141 - INFO - Stock data extraction and normalization complete for FIEI3
+2024-06-17 23:04:47,141 - INFO - Starting stock scrapper for ENMT3
+2024-06-17 23:04:47,141 - INFO - Getting stock data for ENMT3
+2024-06-17 23:04:47,141 - INFO - Extracting stock info
+2024-06-17 23:04:47,157 - INFO - Normalizing data
+2024-06-17 23:04:47,179 - INFO - Extracting stock info
+2024-06-17 23:04:47,194 - INFO - Normalizing data
+2024-06-17 23:04:47,210 - INFO - Stock data extraction and normalization complete for FRIO3
+2024-06-17 23:04:47,210 - INFO - Stock data extraction and normalization complete for CBEE3
+2024-06-17 23:04:47,210 - INFO - Extracting stock info
+2024-06-17 23:04:47,210 - INFO - Extracting stock info
+2024-06-17 23:04:47,226 - INFO - Extracting stock info
+2024-06-17 23:04:47,226 - INFO - Starting stock scrapper for AHEB3
+2024-06-17 23:04:47,226 - INFO - Starting stock scrapper for TELB3
+2024-06-17 23:04:47,226 - INFO - Normalizing data
+2024-06-17 23:04:47,241 - INFO - Normalizing data
+2024-06-17 23:04:47,241 - INFO - Normalizing data
+2024-06-17 23:04:47,241 - INFO - Getting stock data for AHEB3
+2024-06-17 23:04:47,241 - INFO - Getting stock data for TELB3
+2024-06-17 23:04:47,241 - INFO - Stock data extraction and normalization complete for MWET4
+2024-06-17 23:04:47,257 - INFO - Stock data extraction and normalization complete for COCE3
+2024-06-17 23:04:47,266 - INFO - Stock data extraction and normalization complete for TEKA4
+2024-06-17 23:04:47,266 - INFO - Starting stock scrapper for DOHL3
+2024-06-17 23:04:47,266 - INFO - Starting stock scrapper for BALM3
+2024-06-17 23:04:47,267 - INFO - Starting stock scrapper for CTNM3
+2024-06-17 23:04:47,268 - INFO - Getting stock data for CTNM3
+2024-06-17 23:04:47,268 - INFO - Getting stock data for BALM3
+2024-06-17 23:04:47,268 - INFO - Getting stock data for DOHL3
+2024-06-17 23:04:47,279 - INFO - Extracting stock info
+2024-06-17 23:04:47,279 - INFO - Normalizing data
+2024-06-17 23:04:47,295 - INFO - Stock data extraction and normalization complete for AHEB5
+2024-06-17 23:04:47,295 - INFO - Starting stock scrapper for MAPT3
+2024-06-17 23:04:47,295 - INFO - Getting stock data for MAPT3
+2024-06-17 23:04:47,310 - INFO - Extracting stock info
+2024-06-17 23:04:47,310 - INFO - Normalizing data
+2024-06-17 23:04:47,310 - INFO - Stock data extraction and normalization complete for RPAD3
+2024-06-17 23:04:47,310 - INFO - Starting stock scrapper for PINE11
+2024-06-17 23:04:47,310 - INFO - Getting stock data for PINE11
+2024-06-17 23:04:47,357 - INFO - Extracting stock info
+2024-06-17 23:04:47,357 - INFO - Normalizing data
+2024-06-17 23:04:47,373 - INFO - Stock data extraction and normalization complete for ENMT3
+2024-06-17 23:04:47,373 - INFO - Starting stock scrapper for RPAD5
+2024-06-17 23:04:47,373 - INFO - Getting stock data for RPAD5
+2024-06-17 23:04:47,379 - INFO - Extracting stock info
+2024-06-17 23:04:47,395 - INFO - Normalizing data
+2024-06-17 23:04:47,411 - INFO - Stock data extraction and normalization complete for AHEB3
+2024-06-17 23:04:47,411 - INFO - Starting stock scrapper for RPAD6
+2024-06-17 23:04:47,411 - INFO - Getting stock data for RPAD6
+2024-06-17 23:04:47,411 - INFO - Extracting stock info
+2024-06-17 23:04:47,426 - INFO - Normalizing data
+2024-06-17 23:04:47,426 - INFO - Stock data extraction and normalization complete for TELB3
+2024-06-17 23:04:47,426 - INFO - Starting stock scrapper for WLMM3
+2024-06-17 23:04:47,426 - INFO - Getting stock data for WLMM3
+2024-06-17 23:04:47,442 - INFO - Extracting stock info
+2024-06-17 23:04:47,442 - INFO - Normalizing data
+2024-06-17 23:04:47,458 - INFO - Extracting stock info
+2024-06-17 23:04:47,458 - INFO - Normalizing data
+2024-06-17 23:04:47,458 - INFO - Stock data extraction and normalization complete for PINE11
+2024-06-17 23:04:47,458 - INFO - Starting stock scrapper for CSRN6
+2024-06-17 23:04:47,458 - INFO - Getting stock data for CSRN6
+2024-06-17 23:04:47,480 - INFO - Stock data extraction and normalization complete for CTNM3
+2024-06-17 23:04:47,480 - INFO - Starting stock scrapper for PEAB4
+2024-06-17 23:04:47,480 - INFO - Getting stock data for PEAB4
+2024-06-17 23:04:47,480 - INFO - Extracting stock info
+2024-06-17 23:04:47,480 - INFO - Normalizing data
+2024-06-17 23:04:47,495 - INFO - Extracting stock info
+2024-06-17 23:04:47,511 - INFO - Normalizing data
+2024-06-17 23:04:47,527 - INFO - Stock data extraction and normalization complete for BALM3
+2024-06-17 23:04:47,527 - INFO - Stock data extraction and normalization complete for DOHL3
+2024-06-17 23:04:47,527 - INFO - Extracting stock info
+2024-06-17 23:04:47,527 - INFO - Starting stock scrapper for CEEB5
+2024-06-17 23:04:47,527 - INFO - Starting stock scrapper for PATI3
+2024-06-17 23:04:47,527 - INFO - Normalizing data
+2024-06-17 23:04:47,527 - INFO - Getting stock data for CEEB5
+2024-06-17 23:04:47,527 - INFO - Getting stock data for PATI3
+2024-06-17 23:04:47,542 - INFO - Stock data extraction and normalization complete for MAPT3
+2024-06-17 23:04:47,542 - INFO - Starting stock scrapper for CEED3
+2024-06-17 23:04:47,542 - INFO - Getting stock data for CEED3
+2024-06-17 23:04:47,580 - INFO - Extracting stock info
+2024-06-17 23:04:47,580 - INFO - Normalizing data
+2024-06-17 23:04:47,580 - INFO - Stock data extraction and normalization complete for RPAD5
+2024-06-17 23:04:47,596 - INFO - Extracting stock info
+2024-06-17 23:04:47,596 - INFO - Normalizing data
+2024-06-17 23:04:47,611 - INFO - Stock data extraction and normalization complete for RPAD6
+2024-06-17 23:04:47,674 - INFO - Extracting stock info
+2024-06-17 23:04:47,696 - INFO - Normalizing data
+2024-06-17 23:04:47,696 - INFO - Extracting stock info
+2024-06-17 23:04:47,696 - INFO - Extracting stock info
+2024-06-17 23:04:47,711 - INFO - Normalizing data
+2024-06-17 23:04:47,711 - INFO - Stock data extraction and normalization complete for WLMM3
+2024-06-17 23:04:47,711 - INFO - Normalizing data
+2024-06-17 23:04:47,743 - INFO - Extracting stock info
+2024-06-17 23:04:47,780 - INFO - Stock data extraction and normalization complete for PEAB4
+2024-06-17 23:04:47,780 - INFO - Normalizing data
+2024-06-17 23:04:47,780 - INFO - Extracting stock info
+2024-06-17 23:04:47,780 - INFO - Stock data extraction and normalization complete for CSRN6
+2024-06-17 23:04:47,780 - INFO - Extracting stock info
+2024-06-17 23:04:47,780 - INFO - Stock data extraction and normalization complete for CEEB5
+2024-06-17 23:04:47,780 - INFO - Normalizing data
+2024-06-17 23:04:47,796 - INFO - Normalizing data
+2024-06-17 23:04:47,796 - INFO - Stock data extraction and normalization complete for CEED3
+2024-06-17 23:04:47,796 - INFO - Stock data extraction and normalization complete for PATI3
+2024-06-17 23:04:47,981 - INFO - Exporting data to ./data/output_20240617.csv
